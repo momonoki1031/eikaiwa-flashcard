@@ -510,6 +510,139 @@ button { font: inherit; color: inherit; background: none; border: none; cursor: 
   margin-left: -4px;
 }
 
+/* ============== Browse view ============== */
+.browse { padding: 12px 16px 24px; flex: 1; }
+.browse-controls {
+  position: sticky;
+  top: calc(var(--safe-top) + 58px);
+  z-index: 5;
+  background: var(--color-bg);
+  padding: 8px 0 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.search-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.search-wrap svg {
+  position: absolute;
+  left: 12px;
+  color: var(--color-text-faint);
+  width: 18px; height: 18px;
+  pointer-events: none;
+}
+.search-input {
+  width: 100%;
+  padding: 12px 14px 12px 38px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-divider);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 15px;
+  outline: none;
+  -webkit-appearance: none;
+}
+.search-input:focus { border-color: var(--color-primary); }
+.search-clear {
+  position: absolute;
+  right: 10px;
+  color: var(--color-text-faint);
+  padding: 4px;
+  display: none;
+}
+.search-clear.visible { display: block; }
+.chip-row {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 2px;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.chip-row::-webkit-scrollbar { display: none; }
+.chip {
+  flex-shrink: 0;
+  padding: 7px 14px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-divider);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.chip.active {
+  background: var(--color-primary);
+  color: var(--color-text-inverse);
+  border-color: var(--color-primary);
+}
+.browse-summary {
+  font-size: 12px;
+  color: var(--color-text-muted);
+  margin: 8px 4px 10px;
+  font-variant-numeric: tabular-nums;
+}
+.card-list { display: flex; flex-direction: column; gap: 8px; }
+.list-item {
+  background: var(--color-surface);
+  border: 1px solid var(--color-divider);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+  width: 100%;
+  transition: border-color 0.15s, background 0.15s;
+}
+.list-item:active { border-color: var(--color-primary); background: var(--color-surface-offset); }
+.list-jp { font-size: 15px; line-height: 1.5; color: var(--color-text); word-break: break-word; }
+.list-en { font-size: 14px; line-height: 1.5; color: var(--color-text-muted); word-break: break-word; display: none; }
+.list-item.revealed .list-en { display: block; color: var(--color-primary-hover); font-weight: 500; }
+[data-theme="dark"] .list-item.revealed .list-en { color: #7fd0da; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) .list-item.revealed .list-en { color: #7fd0da; }
+}
+.list-item .list-deck {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--color-text-faint);
+  text-transform: uppercase;
+}
+.list-empty {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--color-text-muted);
+  font-size: 14px;
+}
+.reveal-all-btn {
+  padding: 7px 12px;
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 1px solid var(--color-divider);
+  color: var(--color-text-muted);
+  font-size: 12px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.reveal-all-btn.active {
+  background: var(--color-primary-highlight);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+.browse-actions-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
 /* Hidden */
 .hidden { display: none !important; }
 
@@ -558,8 +691,38 @@ button { font: inherit; color: inherit; background: none; border: none; cursor: 
       </div>
     </div>
 
+    <button class="deck-card" id="browseEntry" style="margin-bottom: 8px;">
+      <div class="deck-icon" style="background: var(--color-surface-offset); color: var(--color-text-muted);">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+      </div>
+      <div class="deck-info">
+        <div class="deck-name">予習・一覧を見る</div>
+        <div class="deck-meta"><span class="deck-meta-item">全カードを日本語＋英文で確認</span></div>
+      </div>
+      <svg class="deck-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"></polyline></svg>
+    </button>
+
     <div class="section-label">デッキ</div>
     <div class="deck-list" id="deckList"></div>
+  </section>
+
+  <!-- Browse view -->
+  <section id="browseView" class="browse hidden">
+    <div class="browse-controls">
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+        <input id="searchInput" class="search-input" type="search" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="日本語・英文を検索">
+        <button class="search-clear" id="searchClear" aria-label="クリア">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+      <div class="browse-actions-row">
+        <div class="chip-row" id="chipRow"></div>
+        <button class="reveal-all-btn" id="revealAllBtn" aria-label="英訳を一括表示">英訳<br>表示</button>
+      </div>
+    </div>
+    <div class="browse-summary" id="browseSummary">—</div>
+    <div class="card-list" id="cardList"></div>
   </section>
 
   <!-- Study view -->
@@ -883,6 +1046,106 @@ function exitStudy() {
   renderHome();
 }
 
+// ============== Browse (予習・一覧) ==============
+let browseState = { deck: 'ALL', query: '', revealAll: false };
+
+function enterBrowse() {
+  document.getElementById('homeView').classList.add('hidden');
+  document.getElementById('browseView').classList.remove('hidden');
+  // Header back button
+  document.getElementById('headerLeft').innerHTML = '';
+  const back = document.createElement('button');
+  back.className = 'back-btn';
+  back.innerHTML = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg><span>ホーム</span>';
+  back.addEventListener('click', exitBrowse);
+  document.getElementById('headerLeft').appendChild(back);
+  renderChips();
+  renderCardList();
+}
+
+function exitBrowse() {
+  document.getElementById('browseView').classList.add('hidden');
+  document.getElementById('homeView').classList.remove('hidden');
+  document.getElementById('headerLeft').innerHTML = '<div class="header-title">英会話フラッシュカード</div>';
+  renderHome();
+}
+
+function renderChips() {
+  const chipRow = document.getElementById('chipRow');
+  const deckOrder = ['重要構文_初級編','重要構文_中上級編','ATSU表現_Part1','ATSU表現_Part2','ATSU表現_Part3'];
+  const chipLabels = { ALL: 'すべて', '重要構文_初級編':'初級', '重要構文_中上級編':'中・上級', 'ATSU表現_Part1':'ATSU①', 'ATSU表現_Part2':'ATSU②', 'ATSU表現_Part3':'ATSU③' };
+  const items = ['ALL', ...deckOrder.filter(d => decks[d])];
+  chipRow.innerHTML = '';
+  items.forEach(key => {
+    const chip = document.createElement('button');
+    chip.className = 'chip' + (browseState.deck === key ? ' active' : '');
+    chip.textContent = chipLabels[key] || key;
+    chip.dataset.key = key;
+    chip.addEventListener('click', () => {
+      browseState.deck = key;
+      renderChips();
+      renderCardList();
+    });
+    chipRow.appendChild(chip);
+  });
+}
+
+function renderCardList() {
+  const list = document.getElementById('cardList');
+  const summary = document.getElementById('browseSummary');
+  const q = browseState.query.trim().toLowerCase();
+  let pool = cards;
+  if (browseState.deck !== 'ALL') pool = pool.filter(c => c.deck === browseState.deck);
+  if (q) pool = pool.filter(c => (c.jp || '').toLowerCase().includes(q) || (c.en || '').toLowerCase().includes(q));
+
+  summary.textContent = `${pool.length} 件 / 全 ${cards.length} 枚`;
+  list.innerHTML = '';
+
+  if (pool.length === 0) {
+    const empty = document.createElement('div');
+    empty.className = 'list-empty';
+    empty.textContent = '該当するカードがありません';
+    list.appendChild(empty);
+    return;
+  }
+
+  const deckShort = {'重要構文_初級編':'初級','重要構文_中上級編':'中・上級','ATSU表現_Part1':'ATSU①','ATSU表現_Part2':'ATSU②','ATSU表現_Part3':'ATSU③'};
+  // Performance: build via fragment
+  const frag = document.createDocumentFragment();
+  pool.forEach(c => {
+    const item = document.createElement('div');
+    item.className = 'list-item' + (browseState.revealAll ? ' revealed' : '');
+    const jp = document.createElement('div');
+    jp.className = 'list-jp';
+    jp.textContent = c.jp;
+    const en = document.createElement('div');
+    en.className = 'list-en';
+    en.textContent = c.en;
+    const deckTag = document.createElement('div');
+    deckTag.className = 'list-deck';
+    deckTag.textContent = deckShort[c.deck] || c.deck;
+    item.appendChild(jp);
+    item.appendChild(en);
+    item.appendChild(deckTag);
+    item.addEventListener('click', () => {
+      item.classList.toggle('revealed');
+    });
+    frag.appendChild(item);
+  });
+  list.appendChild(frag);
+}
+
+function toggleRevealAll() {
+  browseState.revealAll = !browseState.revealAll;
+  const btn = document.getElementById('revealAllBtn');
+  btn.classList.toggle('active', browseState.revealAll);
+  btn.innerHTML = browseState.revealAll ? '英訳<br>隠す' : '英訳<br>表示';
+  // Apply to all current items without full rerender
+  document.querySelectorAll('#cardList .list-item').forEach(el => {
+    el.classList.toggle('revealed', browseState.revealAll);
+  });
+}
+
 function showNextCard() {
   if (current.index >= current.queue.length) {
     // Session done
@@ -1042,6 +1305,26 @@ function init() {
       else if (e.key === '3') answerCard('easy');
     }
   });
+
+  // Browse view wiring
+  document.getElementById('browseEntry').addEventListener('click', enterBrowse);
+  const searchInput = document.getElementById('searchInput');
+  const searchClear = document.getElementById('searchClear');
+  let searchTimer;
+  searchInput.addEventListener('input', (e) => {
+    browseState.query = e.target.value;
+    searchClear.classList.toggle('visible', !!e.target.value);
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(renderCardList, 120);
+  });
+  searchClear.addEventListener('click', () => {
+    searchInput.value = '';
+    browseState.query = '';
+    searchClear.classList.remove('visible');
+    renderCardList();
+    searchInput.focus();
+  });
+  document.getElementById('revealAllBtn').addEventListener('click', toggleRevealAll);
 
   loadCards().then(renderHome);
 }
