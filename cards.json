@@ -1,0 +1,5752 @@
+[
+  {
+    "jp": "先に進む前に基本をしっかり理解することが大切だよ。",
+    "en": "It's crucial to grasp the basics before moving on.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "知らない街を一人でぶらぶら歩くのって最高だよね。",
+    "en": "It's awesome to stroll around a new city by yourself.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "第二言語で自分の気持ちを上手く表現するのって、なかなか難しいよね。",
+    "en": "It's really tricky to articulate your feelings in a second language.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "異なる文化が同じ祝日をどう祝うか観察するのは面白いよね。",
+    "en": "It's fascinating to observe how different cultures celebrate the same holiday.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "たくさん旅行してる時って、しっかりしたルーティンを保つのが大変だよ。",
+    "en": "It's tough to maintain a solid routine when you're traveling a lot.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "問題が起きた時にチームと率直にコミュニケーションを取ることって大事だよ。",
+    "en": "It's vital to communicate openly with your team when problems arise.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいスキルをゼロから身につけるのはめったに簡単じゃないよね。",
+    "en": "It's seldom easy to cultivate a new skill from scratch.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼が3ヶ国語を同時に理解できるなんて面白いよね。",
+    "en": "It's fascinating that he can comprehend three languages at once.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "会社が何の警告もなく全業務を停止したなんてひどいよ。",
+    "en": "It's awful that the company halted all operations without any warning.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ここのWi-Fiがこんなに不安定なのって困るよね。",
+    "en": "It's tricky that the Wi-Fi connection here is so flimsy.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "毎日着実に英語を上達させてるなんてすごいね。",
+    "en": "It's great that you've been steadily improving your English every day.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "路上で怪我人を誰も助けようとしなかったなんて深刻な問題だよ。",
+    "en": "It's grave that nobody attempted to assist the injured person on the street.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "悪天候でイベントが台無しになったのって残念だよね。",
+    "en": "It's bummed that the event went down in flames because of the bad weather.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "製品デザインで手を抜いたなんてちょっとダメだよね。",
+    "en": "It's pretty lame that they cut corners on the product design.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "その新しいソフトウェアがそんなに洗練されてるなんて無料とは思えないよ。",
+    "en": "The new software is so sleek that I can't believe it's free.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "人混みがそんなに活気があって、思わず一緒に踊っちゃったよ。",
+    "en": "The crowd was so lively that we couldn't help but join the dance.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "説明があまりにも簡単すぎて、何をすべきか理解できなかったよ。",
+    "en": "The instructions were so brief that I couldn't grasp what I was supposed to do.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女は旅行をそんなに楽しみにしてて、3日前にもうバッグを詰めてたよ。",
+    "en": "She was so stoked about the trip that she packed her bags three days early.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "箱がそんなに重くて、2人がかりで持ち上げないといけなかったよ。",
+    "en": "The box was so hefty that we had to get two people to lift it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "プレゼンがそんなに暗くて、終わる前にみんな眠っちゃったよ。",
+    "en": "The presentation was so gloomy that everyone fell asleep before it ended.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼の説明がそんなに鮮明で、シーン全体がはっきりと想像できたよ。",
+    "en": "His explanation was so vivid that I could picture the whole scene clearly.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "作業がそんなに単調で、休憩なしには続けられなかったよ。",
+    "en": "The task was so monotonous that I couldn't proceed without taking a break.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今は気だるすぎて勉強できないな。夕食の後でやろうかな。",
+    "en": "I'm too sluggish to hit the books right now—maybe after dinner.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼はやる気がなさすぎてキャリアをこれ以上伸ばせないよ。",
+    "en": "He's too lethargic to advance any further in his career.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "このマニュアルが古すぎて新しいシステムに使えないよ。",
+    "en": "This manual is too outdated to utilize for the new system.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "データが曖昧すぎて、はっきりしたパターンを見分けることができないよ。",
+    "en": "The data is too vague to discern any clear pattern.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "部屋が暗すぎてこの書類の細かい文字を確認することができないよ。",
+    "en": "The room is too dim to scrutinize the small print on this document.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今日は金欠すぎて外でランチを食べられないよ。家で何か作ろうかな。",
+    "en": "I'm too broke to grab lunch out today—I'll just cook something at home.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "床がもろすぎてそんなに重い家具は置けないよ。",
+    "en": "The floor is too flimsy to place such a hefty piece of furniture on.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女は落ち込みすぎてオフィスで誰にも明るく挨拶できなかったよ。",
+    "en": "She was too bummed to cheerfully greet anyone at the office.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼は頭が良すぎて家庭教師なしで大学レベルの数学を理解できるよ。",
+    "en": "He's brainy enough to comprehend university-level math without a tutor.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女は切れすぎてチーム全体のしっかりとした計画を立てられるよ。",
+    "en": "She's switched-on enough to devise a solid plan for the whole team.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "説明が分かりやすすぎて、背景知識なしでも理解できたよ。",
+    "en": "The explanation was clear enough to grasp even without background knowledge.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼はそんな年齢でも元気があってチャンピオンを目指せるよ。",
+    "en": "He's vigorous enough to strive for the championship even at his age.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "無駄なコストを削れば予算は何とかぎりぎりで進めていけるよ。",
+    "en": "The budget is slim enough to proceed only if we cut unnecessary costs.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "このプラットフォームは全部署の議論を進行するのに十分な幅があるかな？",
+    "en": "Is this platform broad enough to facilitate a discussion among all departments?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいラップトップはコンパクトすぎて重さを感じずに持ち運べるよ。",
+    "en": "The new laptop is compact enough to carry around without feeling weighty.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼は温かい心を持っていて、助けを求める誰もが喜んで指導してくれるよ。",
+    "en": "He's warm-hearted enough to gladly mentor anyone who asks for help.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "プレッシャーを感じている時は、自分の考えをうまく表現するのが難しいと思う。",
+    "en": "I find it tricky to articulate my thoughts clearly when I'm under pressure.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "都市が何十年もかけてどう変わっていくかを観察するのは面白いと彼女は思っている。",
+    "en": "She finds it fascinating to observe how cities transform over the decades.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "イベントで見知らぬ人と話すのがすごく自然に感じるよ。",
+    "en": "I find it effortlessly natural to chat with strangers at events.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼は新しいプログラミングの概念を理解するのは難しくないと思っている。",
+    "en": "He finds it straightforward to grasp new programming concepts.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "毎日同じ炒め物を作るのは単調だと思うよ。",
+    "en": "I find it monotonous to do the same stir-fry dish every single day.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "週末の散歩中に隠れたカフェを発見するのって最高だと思うよ。",
+    "en": "I find it awesome to discover hidden cafes during a weekend stroll.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女はめちゃくちゃ忙しい時に部屋をきれいに保つのは大変だと思っている。",
+    "en": "She finds it tough to maintain a spotless room when she's super busy.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "修正しようとする試みもなくプロジェクトを放棄するのってちょっとダメだと思う。",
+    "en": "I find it a bit lame to abandon a project without any attempt to fix it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "レポートを徹底的に確認できるように、いつもより早く起きたよ。",
+    "en": "I woke up earlier than usual so that I could thoroughly review the report.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "最新機能を活用できるようにスマートフォンをアップグレードしたよ。",
+    "en": "She upgraded her smartphone so that she could utilize the latest features.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "キャリアアップできるようにコミュニケーション能力を磨いたよ。",
+    "en": "He cultivated his communication skills so that he could advance in his career.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "服にソースがつかないようにエプロンを着けたよ。",
+    "en": "She put on an apron so that she wouldn't get the sauce on her clothes.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "電車の中で喉が渇かないように駅で飲み物を買ったよ。",
+    "en": "I grabbed a beverage at the station so that I wouldn't get thirsty on the train.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "試験前に内容を理解できるように毎晩勉強したよ。",
+    "en": "I hit the books every evening so that I could grasp the material before the exam.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "みんなが懸念を表明できるよう、全てをオープンに話し合ったよ。",
+    "en": "We discussed everything openly so that everyone could voice their concerns.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "誤解がないように、自分の立場をしっかりと述べたよ。",
+    "en": "He firmly stated his position so that there would be no misunderstanding.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この仕事は全く単調だとは思わないよ。むしろ楽しいくらいだよ。",
+    "en": "I don't find this task monotonous at all—I actually enjoy it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいインターンのプロジェクトを手伝うことに全く躊躇しなかったよ。",
+    "en": "She didn't hesitate at all to assist the new intern with the project.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "期限内に課題を終わらせることに関して彼は全く怠けてないよ。",
+    "en": "He's not sluggish at all when it comes to completing assignments on time.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "自分のキッチンで味気ない料理を作ることは全く受け入れられないよ。",
+    "en": "I don't find cooking bland food at all acceptable in my kitchen.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女は全く敵対的じゃなかったよ。ただ締め切りのせいで厳しかっただけだよ。",
+    "en": "She wasn't hostile at all—she was just being stern because of the deadline.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "正直言うと、今日は全くだるくないよ。ジムに行く準備万全だよ！",
+    "en": "TBH, I don't feel lethargic at all today. I'm ready to hit the gym!",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "先生が全部説明してくれたら、指示は全く難しくなかったよ。",
+    "en": "The instructions weren't tricky at all once the teacher clarified everything.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "全く金欠じゃないよ。何ヶ月も着実に貯金してきたから。",
+    "en": "I'm not broke at all—I've been steadily saving up for months.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "指導へのアプローチが私と同じだね、いつも忍耐強くて徹底的だよ。",
+    "en": "His approach to mentoring is the same as mine—always patient and thorough.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この大都市の雰囲気は東京と同じだね。うるさくて速くて興奮するよ。",
+    "en": "The vibe of this metropolis is the same as Tokyo—loud, fast, and exciting.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ジャズの曲に対する好みが私のお父さんと同じだね。",
+    "en": "Your fondness for jazz tunes is the same as my dad's.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この学校のカリキュラムが私が学んだところと同じだよ。",
+    "en": "The curriculum at this institute is the same as the one I studied at.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "計画を立てる方法が彼の指導者と同じだよ。とても体系的だよ。",
+    "en": "His way of crafting a plan is the same as his mentor's—very systematic.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "正直、今の住まいは大きさに関して前のところと同じだよ。",
+    "en": "Honestly, my current residence is the same as my old one in terms of size.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "顧客を温かく迎える方法がトップ営業担当者と同じだよ。",
+    "en": "Her way of greeting customers warmly is the same as the top sales rep's.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今感じている締め切りのプレッシャーは先四半期と同じだよ。",
+    "en": "The deadline pressure I'm feeling right now is the same as last quarter's.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "お金持ちだからといって、見せびらかさないといけないわけじゃないよ。",
+    "en": "Just because he's wealthy doesn't mean he has to flaunt it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "タスクが簡単そうに見えるからといって、手を抜いていいわけじゃないよ。",
+    "en": "Just because the task seems simple doesn't mean you can cut corners on it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "誰かが元気で活動的だからといって、健康だとは限らないよ。",
+    "en": "Just because someone is vigorous and active doesn't mean they're healthy.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "パーティーで活気があるからといって、日常生活でも外向的だとは限らないよ。",
+    "en": "Just because she's lively at parties doesn't mean she's an extrovert in daily life.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "チャリティーに寄付したからといって、ビジネスの仕方が倫理的だとは限らないよ。",
+    "en": "Just because they donated to charity doesn't mean their business practices are ethical.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "近所がきれいだからといって、完全に安全だとは限らないよ。",
+    "en": "Just because the neighborhood is spotless doesn't mean it's totally safe.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ASAPやBTWみたいな略語をたくさん使うからといって、その人がカジュアルだとは限らないよ。",
+    "en": "Just because someone uses a lot of abbreviations like ASAP or BTW doesn't mean they're informal.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "頭が良いからといって、全ての科目を楽々と理解できるとは限らないよ。",
+    "en": "Just because he's brainy doesn't mean he can grasp every subject effortlessly.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "良い仲間がいなければ、お金持ちの生活が必ずしも充実しているとは限らないよ。",
+    "en": "A loaded lifestyle is not necessarily fulfilling if you don't have good companions.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "洗練されたデザインが必ずしも日常使いに実用的とは限らないよ。",
+    "en": "A sleek design is not necessarily practical for everyday use.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "頭が良いことが必ずしも競争の激しい分野で上位に上がるのに十分とは限らないよ。",
+    "en": "Being brainy is not necessarily enough to advance in a competitive field.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "高い目標を持つことが必ずしも明確な計画を持つことと同じとは限らないよ。",
+    "en": "Having a lofty goal is not necessarily the same as having a clear plan to achieve it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "温かい心を持つ人が必ずしも良いマネージャーになるとは限らないよ。",
+    "en": "A warm-hearted person is not necessarily going to be a good manager.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "率直な答えが必ずしも最も正確なものとは限らないよ。",
+    "en": "A straightforward answer is not necessarily the most accurate one.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "テクノロジーに精通していることが必ずしも全ての仕事に役立つとは限らないよ。",
+    "en": "Being switched-on about technology is not necessarily useful for every job.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "素早い返答が必ずしも最も思慮深いものとは限らないよ。",
+    "en": "A speedy response is not necessarily the most thoughtful one.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔は夜中まで勉強していたけど、今は早く寝るようにしてるよ。",
+    "en": "I used to hit the books until midnight, but now I try to sleep early.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔はキャリアチェンジについてよく考えていたけど、今はようやく落ち着いたよ。",
+    "en": "She used to contemplate switching careers, but she's finally settled now.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔は毎週金曜日に一緒にランチしてたよ。あの頃はよかったな。",
+    "en": "We used to grab lunch together every Friday—those were great days.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔は毎月給料の一部をチャリティーに寄付していたよ。",
+    "en": "He used to donate a portion of his paycheck to charity every month.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この近所は建物が建つ前は広大な農地だったよ。",
+    "en": "This neighborhood used to be an expansive farmland before all the buildings went up.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔はクラスで一番を目指していたけど、今はプロセスを楽しむことに集中してるよ。",
+    "en": "I used to strive to be the best in class, but now I just focus on enjoying the process.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔、父は会社で若いエンジニアを指導していたよ。みんなが彼を大好きだったよ。",
+    "en": "My dad used to mentor young engineers at his firm—everyone loved him.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔は平日にめったに外出しなかったけど、今は色々変わったね。",
+    "en": "She used to seldom go out on weekdays, but things have changed a lot.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "野菜を炒めることにはもう慣れてるよ。毎日のルーティンになってるから。",
+    "en": "I'm already used to sautéing vegetables—it's become part of my daily routine.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "厳しいインストラクターに指導されることに慣れてるから、批判を受けても動じないよ。",
+    "en": "He's used to being mentored by tough instructors, so criticism doesn't faze him.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "プロジェクトを始める前に詳細な計画を作ることに慣れてるよ。",
+    "en": "She's used to crafting detailed plans before initiating any project.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "大都市の活気ある雰囲気に慣れてるから、静かな町は変な感じがするよ。",
+    "en": "I'm used to the lively atmosphere of a metropolis—quiet towns feel strange to me.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "予期しない問題に遭遇することに慣れてるから、落ち着いて解決するよ。",
+    "en": "He's used to encountering unexpected problems—he just solves them calmly.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "率直なフィードバックを受けることに慣れてるから、それで早く上達するよ。",
+    "en": "She's used to receiving candid feedback—it makes her improve faster.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "朝はいつもバタバタだから、飲み物を買いながら出かけることに慣れてるよ。",
+    "en": "I'm used to grabbing a beverage on the go because my mornings are always hectic.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "オープンに話し合うことに慣れてるから、大きな誤解はほとんどないよ。",
+    "en": "We're used to discussing things openly, so we rarely have major misunderstandings.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいカフェは思ったよりくつろいだ感じじゃなかったよ。むしろかなりうるさいよ。",
+    "en": "The new café is not as chill as I expected—it's actually pretty loud.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "このタスクは思ったより単純じゃなかったよ。難しい部分がたくさんあるよ。",
+    "en": "This task is not as straightforward as I thought—there are so many tricky parts.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "道がなだらかだったおかげで、ハイキングは思ったほど疲れなかったよ。",
+    "en": "The hike was not as exhausting as I expected, thanks to the smooth trail.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "長距離走った後、その飲み物は思ったほど爽やかじゃなかったよ。",
+    "en": "The beverage was not as refreshing as I thought after a long run.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいポリシーは思ったより幅広くなかったよ。特定のケースしかカバーしてないよ。",
+    "en": "The new policy is not as broad as I expected—it only covers certain cases.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "写真の部屋は広かったけど、実際に見たら思ったほど広くなかったよ。",
+    "en": "The room in the photo was expansive, but it's not as expansive as I thought in person.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "あの学校の奨学金を取るのは思ったほど大変じゃなかったよ。",
+    "en": "Getting a scholarship to that institute was not as tough as I expected.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "そのドキュメンタリーは思ったほど退屈じゃなかったよ。実際かなり面白かったよ。",
+    "en": "The documentary was not as dull as I thought—it was actually pretty fascinating.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "転職すべきかどうか考えながら午後を丸ごと過ごしたよ。",
+    "en": "I spent the whole afternoon contemplating whether to change jobs.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ソースが完璧になるまで2時間炒めて煮込んで過ごしたよ。",
+    "en": "She spent two hours sautéing and simmering the sauce until it was perfect.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "週末は古道具屋を回って素敵なものをいくつか手に入れながら過ごしたよ。",
+    "en": "He spent the weekend browsing through antique shops, acquiring some neat items.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔の知り合いと電話でおしゃべりしながら1時間過ごしたよ。",
+    "en": "I spent an hour on the phone chatting with my old acquaintance.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "SNSのプレゼンスをどう伸ばすかについて話し合いながら、会議の時間を全部使ったよ。",
+    "en": "We spent the entire meeting discussing how to boost our social media presence.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "何年も木工の技術を習得しようと努力しながら過ごしたよ。",
+    "en": "He spent years striving to master the craft of woodworking.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "日曜日の朝は近所をのんびり歩きながら過ごしたよ。",
+    "en": "I spent Sunday morning doing a leisurely stroll around the neighborhood.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "契約書にサインする前に3時間かけて丁寧に精査しながら過ごしたよ。",
+    "en": "She spent three hours meticulously scrutinizing the contract before signing it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今夜は飲み物を手に取って長い散歩に行きたい気分だよ。",
+    "en": "I feel like grabbing a beverage and going for a long stroll tonight.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今晩は重いものじゃなくて野菜を炒めてご飯にしたい気分だって彼女は言ってるよ。",
+    "en": "She feels like sautéing some veggies for dinner—nothing heavy tonight.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今日は全く勉強したい気分じゃないよ。もう完全に疲れ果ててるから。",
+    "en": "I don't feel like hitting the books today—I'm totally burnt out.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今週末は何か新しくてわくわくすることを試してみたい気分だって彼は言ってるよ。",
+    "en": "He feels like attempting something new and exciting this weekend.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "一日中一人だったから、誰かと話したい気分だよ。",
+    "en": "I feel like chatting with someone—I've been alone all day.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今週頑張ったから、思いきり羽を伸ばしたい気分だよ。",
+    "en": "I really feel like painting the town red after all the hard work this week.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今夜は揚げ物はしたい気分じゃないよ。鶏肉はグリルにしよう。",
+    "en": "I don't feel like deep-frying anything tonight—let me just grill the chicken.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "外がめちゃくちゃ暑いから、今日はハイキングに行きたい気分じゃないって彼女は言ってるよ。",
+    "en": "She doesn't feel like going on a hike today because it's boiling outside.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "レポートの要点が理解できたら、すぐに教えてね。",
+    "en": "Let me know as soon as you grasp the key points of the report.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "みんなが落ち着いたらすぐに彼女はプレゼンを始めたよ。",
+    "en": "She commenced the presentation as soon as everyone settled down.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "カウンターに着いたらすぐに飲み物を買ってくるよ。",
+    "en": "I'll grab a beverage for you as soon as I get to the counter.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "良い競争相手に出会ったらすぐに、もっと頑張るようになったよ。",
+    "en": "He started to strive harder as soon as he encountered some healthy competition.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この仕事が片付いたらすぐに引越しを手伝うよ。",
+    "en": "I'll assist you with moving in as soon as I wrap up this task.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "試験に合格したと知ったらすぐに彼女はめちゃ嬉しくなったよ。",
+    "en": "She felt stoked as soon as she discovered she'd passed the exam.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "まな板がきれいになったらすぐに玉ねぎを切るよ。",
+    "en": "I'll chop the onions as soon as the cutting board is clean.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "誤解に気づいたらすぐに彼は説明し始めたよ。",
+    "en": "He proceeded to clarify the misunderstanding as soon as he realized it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "追加サポートなしで彼がその概念を理解できるかどうか分からないよ。",
+    "en": "I don't know if he can grasp the concept without some extra help.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この古い建物を改修する価値があるかどうか分からないよ。",
+    "en": "I don't know if this ancient building is worth renovating.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "追加資金なしで進められるかどうか分からないよ。",
+    "en": "I don't know if we can proceed without additional funds.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女がデータ入力の単調な仕事に慣れているかどうか分からないよ。",
+    "en": "I don't know if she's used to the monotonous nature of data entry work.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "外からの飲み物を持ち込むのを許可してくれるかどうか分からないよ。",
+    "en": "I don't know if they'll permit us to bring in outside beverages.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "友人が計画に本当に乗り気なのか、ただ礼儀からそう言っているのか分からないよ。",
+    "en": "I don't know if my companion is stoked about the plan or just being polite.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この時間帯にカフェに軽食があるかどうか分からないよ。",
+    "en": "I don't know if the café will have refreshments at this hour.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "床があのドレッサーを支えるほど丈夫かどうか分からないよ。",
+    "en": "I don't know if the floor is solid enough to hold that dresser.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼はあのインストラクターの厳しいフィードバックスタイルに慣れているのかな。",
+    "en": "I wonder if he's used to the stern feedback style of that instructor.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女は3ヶ国語で話すことが楽々とできると思っているのかな。",
+    "en": "I wonder if she finds it effortlessly easy to converse in three languages.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "あの企業は今年十分な資金を生み出せるのかな。",
+    "en": "I wonder if that enterprise will be able to generate enough capital this year.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ちょっとおしゃべりできる素敵なカフェがこの辺にあるのかな。",
+    "en": "I wonder if there's a neat little café around here for a quick chat.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいポリシーでスタッフをもっと採用しないといけなくなるのかな。",
+    "en": "I wonder if the new policy will necessitate hiring more staff.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼がさよならも言わずに帰ったのかな。それはちょっとひどいよね。",
+    "en": "I wonder if he left without saying goodbye—that would be pretty lame.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "会場のWi-Fiがまた不安定なのかな。",
+    "en": "I wonder if the Wi-Fi will be flimsy at the venue again.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女がチームの新しいメンバーを喜んで指導してくれるのかな。",
+    "en": "I wonder if she'd gladly mentor someone new to the team.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "仕事でこんなに面白い挑戦に出会ったのは3年ぶりだよ。",
+    "en": "It's been three years since I last encountered such a fascinating challenge at work.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ちゃんとおしゃべりしてから久しぶりだね。いろいろ変わったね！",
+    "en": "It's been a while since we last had a proper chat—so much has changed!",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昔の知り合いと一緒にランチしてから何ヶ月も経ったよ。",
+    "en": "It's been months since I last grabbed lunch with my old acquaintance.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この市街地が大きな改修プロジェクトを始めてから2年になるよ。",
+    "en": "It's been two years since this urban area commenced its big renovation project.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ハイキングに行ってから久しぶりだよ。すごく恋しいな。",
+    "en": "It's been ages since I went on a hike—I miss it so much.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女がプロジェクトに本当にわくわくしてから半年が経ったよ。",
+    "en": "It's been six months since she last felt truly stoked about a project.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "この会場でこんなに活気のある人混みを見てから長い時間が経ったよ。",
+    "en": "It's been a long time since I witnessed such a lively crowd at this venue.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼らが問題を解決しようとしてから1年以上経つけど、まだ結果が出てないよ。",
+    "en": "It's been over a year since they attempted to resolve the issue with no result.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "本当に役立つプロのネットワークを築くのには大体1年くらいかかるよ。",
+    "en": "It takes about a year to cultivate a genuinely useful professional network.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "契約書の全条項を徹底的に精査するのに彼女は何週間もかかったよ。",
+    "en": "It took her weeks to thoroughly scrutinize all the clauses in the contract.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "まだ始めたばかりの人を指導するのにはたくさんの忍耐が必要だよ。",
+    "en": "It takes a lot of patience to mentor someone who's just starting out.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "鶏肉を適切にマリネする方法を理解するのに彼は数時間かかったよ。",
+    "en": "It took him a few hours to grasp how to properly marinate the chicken.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "シニアマネージャーばかりの部屋で意見を主張するには本当の自信が必要だよ。",
+    "en": "It takes real confidence to assert your opinion in a room full of senior managers.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "暗い職場環境を活気ある環境に変えるには時間がかかるよ。",
+    "en": "It takes time to transform a gloomy workspace into a vibrant environment.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "あの濃厚な風味を出すためにスープを煮込むのに大体30分かかるよ。",
+    "en": "It takes about 30 minutes to simmer the broth to get that rich flavor.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "マネージャーの職位に上がるのにどれくらいかかったの？",
+    "en": "How long did it take you to advance to a managerial position?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ミーティングが始まる前に軽食でも取るのはどう？",
+    "en": "How about we grab some refreshments before the meeting starts?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "始める前にちょっとしたゲームで緊張をほぐすのはどう？",
+    "en": "How about we break the ice with a quick game before diving in?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "もう一度チームに概念を説明してみるのはどう？",
+    "en": "How about you attempt to clarify the concept once more for the team?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "市場を歩いて新鮮な食材をいくつか買ってくるのはどう？",
+    "en": "How about we stroll through the market and grab some fresh ingredients?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "より率直に話し合えるように会議室を使うのはどう？",
+    "en": "How about we utilize the conference room so we can discuss this more openly?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "久しぶりだし、今夜はお祝いしてパーッとやるのはどう？",
+    "en": "How about we paint the town red tonight to celebrate—it's been so long!",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "夕食に野菜を炒めて魚をグリルするのはどう？",
+    "en": "How about we sauté some vegetables and grill the fish for dinner?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今週末は家にいる代わりにハイキングに行くのはどう？",
+    "en": "How about we go on a hike this weekend instead of staying in?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "進める前にうちの専門家にデータを調べてもらうよ。",
+    "en": "I'll have our specialist examine the data before we proceed.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "インストラクターにクラス全体のために課題を説明してもらえる？",
+    "en": "Can you have the instructor clarify the assignment for the whole class?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "使う前に医療スタッフに機器を点検してもらうよ。",
+    "en": "I'll have the medic inspect the equipment before we use it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "提出する前に誰かにもう一度レポートを精査してもらうよ。",
+    "en": "Let me have someone scrutinize the report once more before I submit it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "友人にイベントの部屋のセッティングを手伝ってもらうよ。",
+    "en": "I'll have my companion assist with setting up the room for the event.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "教育者に生徒のためにもっと魅力的なカリキュラムを考えてもらえる？",
+    "en": "Can you have the educator devise a more engaging curriculum for the students?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "オフィスの全パソコンのソフトウェアをアップグレードしてもらうよ。",
+    "en": "I'll have them upgrade the software on all the PCs in the office.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "欠席者のために会議の簡単な要約を彼女に作ってもらってよ。",
+    "en": "Have her craft a brief summary of the meeting for those who couldn't attend.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "できるだけ早く専門家に患者を診てもらえる？",
+    "en": "Can you get the specialist to examine the patient as soon as possible?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "友人に重たい箱を運ぶのを手伝ってもらったよ。",
+    "en": "I got my companion to assist me with carrying the weighty boxes.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女はチームに売り上げを伸ばすための新しいアプローチを考えてもらったよ。",
+    "en": "She got her team to strategize a new approach to boost sales.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "数週間指導してもらったら、スキルがめちゃくちゃ向上したよ。",
+    "en": "I got him to mentor me for a few weeks and my skills improved so much.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "技術者にキッチンの蛍光灯を点検してもらえる？",
+    "en": "Can you get the technician to inspect the fluorescent light in the kitchen?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "私がレポートを仕上げている間、妹にクライアントとおしゃべりしてもらったよ。",
+    "en": "I got my sister to chat with the client while I finished the report.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "サインする前に同僚に契約条件を説明してもらったよ。",
+    "en": "She got her colleague to clarify the contract terms before signing.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ブランドのためにもっと鮮やかなロゴを作ってもらったよ。",
+    "en": "I got the designer to craft a more vibrant logo for the brand.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "何があって突然キャリアチェンジを考えさせるようになったの？",
+    "en": "What made you contemplate a career change all of a sudden?",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "そのドキュメンタリーで気候変動の影響がいかに大きいかを考えさせられたよ。",
+    "en": "The documentary made me realize how massive the impact of climate change is.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女の厳しい目つきが全員に即座に話すのをやめさせたよ。",
+    "en": "Her stern look made everyone cease talking immediately.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "温かいスピーチが部屋の全員をわくわくして鼓舞された気持ちにさせたよ。",
+    "en": "The warm-hearted speech made everyone in the room feel stoked and inspired.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ギリギリのスケジュールのせいで、その週の全ての不要な活動を停止せざるをえなかったよ。",
+    "en": "The tight schedule made us halt all non-essential activities for the week.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "新しいポリシーがチームに品質管理へのより徹底的なアプローチを採用させたよ。",
+    "en": "The new policy made the team adopt a more thorough approach to quality control.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "予期しないニュースが、状況を全く違う見方で捉えさせることになったよ。",
+    "en": "The unexpected news made me perceive the situation in a completely different way.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼の型破りなアイデアがいつもチームに常識を超えた発想をさせるよ。",
+    "en": "His wacky ideas always make the team think outside the box.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "その重たい箱を車まで運ぶのを手伝わせてよ。",
+    "en": "Let me assist you with carrying that hefty box to the car.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女は自分が試みる前に友人に新しいレシピを試させてあげたよ。",
+    "en": "She let her companion attempt the new recipe first before jumping in.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "説明させてよ。実際には見た目ほど難しくないから。",
+    "en": "Let me clarify this for you—it's actually not as tricky as it looks.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "味見をする前にあと10分スープを煮込ませておいてよ。",
+    "en": "Just let the soup simmer for another 10 minutes before tasting it.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "データに問題を見つけたらすぐに教えてよ。",
+    "en": "Please let me know as soon as you discover any issues with the data.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女はチームが厳しい制限なしで自由にブレーンストーミングするのを許可したよ。",
+    "en": "She let her team brainstorm freely without any stern restrictions.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "一番いい結果を出すには、マリネを一晩かけてしっかり鶏肉に染み込ませてよ。",
+    "en": "Let the marinade really soak into the chicken overnight for the best result.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "交渉はあなたに任せるよ。私よりずっと得意だから。",
+    "en": "I'll let you handle the negotiation—you're way better at it than me.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "気に入った新しい曲を見つけると、通勤時間が全体的に活き活きした感じになるよ。",
+    "en": "Discovering a new tune you love makes the whole commute feel vibrant.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "昇進のニュースが彼女を一週間ずっとわくわくした気持ちにさせたよ。",
+    "en": "The news about the promotion made her feel stoked for the entire week.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "色を少し加えるだけで、一番味気ないアパートでも新鮮な感じになるよ。",
+    "en": "Adding a splash of color can make even the most bland apartment feel fresh.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "安定した朝のルーティンが一番だるい人でも鋭い感じにさせるよ。",
+    "en": "A steady morning routine makes even the most sluggish person feel sharp.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "資金が不足してきていると分かると、単純な決断でも重大な感じがするよ。",
+    "en": "Knowing your funds are running low makes even simple decisions feel weighty.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "柔軟剤を使うと洗濯物が新鮮な香りになって絹のように滑らかになるよ。",
+    "en": "Using fabric softener makes your laundry smell fresh and feel silky smooth.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "そのカフェの穏やかな雰囲気が完全にリラックスした気持ちにさせてくれるよ。",
+    "en": "The mellow atmosphere of that café makes me feel completely at ease.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "なじみのある曲を聴くと、どんよりした日でも少し楽になる感じがするよ。",
+    "en": "Hearing a familiar tune makes even a gloomy day feel more bearable.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "駅の近くで活気ある大道芸人が人群れを魅了しているのを見たよ。",
+    "en": "I saw a vibrant street performer charming the crowd near the station.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "友人が何も心配せず海岸沿いをのんびり歩いているのを見たよ。",
+    "en": "She saw her companion strolling along the waterfront without a care in the world.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "インストラクターが全員の前で技術を楽々と実演しているのを見たよ。",
+    "en": "I saw the instructor demonstrating the technique effortlessly in front of everyone.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "アリーナの外で大勢の人が熱狂的に応援しているのを見たよ。",
+    "en": "We saw a huge crowd enthusiastically cheering outside the arena.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "今まで見た中で一番複雑な木工品を彼が作っているのを見たよ。",
+    "en": "I saw him crafting the most intricate piece of woodwork I'd ever encountered.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "カウンターの向こうでシェフが優雅に刺身を切っているのを見たよ。",
+    "en": "She saw the chef gracefully slicing sashimi behind the counter.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "外の廊下で2人が騒がしく何かを話し合っているのを見たよ。",
+    "en": "I saw two people noisily discussing something in the hallway outside.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "メンターが新入社員のグループに真剣に概念を説明しているのを見たよ。",
+    "en": "He saw his mentor earnestly explaining a concept to a group of new hires.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "隣の部屋で友人が大声で電話でおしゃべりしているのを聞いたよ。",
+    "en": "I heard my companion chatting loudly on the phone in the next room.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "インストラクターが締め切りは絶対だとしっかりと主張しているのを聞いたよ。",
+    "en": "She heard the instructor firmly asserting that deadlines are non-negotiable.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ダウンタウンの新しい企業についてグループの人たちが熱狂的に話し合っているのを聞いたよ。",
+    "en": "I heard a group of people enthusiastically discussing the new enterprise downtown.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女がプロジェクトでしくじったことを心から謝っているのを聞いたよ。",
+    "en": "He heard her sincerely apologizing for dropping the ball on the project.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "キッチンでシェフが元気よく野菜を切っているのを聞いたよ。",
+    "en": "I heard the chef vigorously chopping vegetables in the kitchen.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女が話すたびに部屋の後ろの方からクスクス笑う声が聞こえてきたよ。",
+    "en": "She heard a snicker coming from the back of the room whenever she spoke.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ネットワーキングイベントで彼がぎこちなく場を和ませようとしているのを聞いたよ。",
+    "en": "I heard him clumsily attempting to break the ice at the networking event.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "プレゼンターの機知に富んだ逸話に聴衆がクスクス笑っているのを聞いたよ。",
+    "en": "I heard the audience chuckling at the presenter's witty anecdote.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女について尊敬するのは、他の人をとても温かく指導する方法だよ。",
+    "en": "What I admire about her is the way she mentors others so warmly.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼がついでに言ったことが一番重要な内容だと判明したよ。",
+    "en": "What he mentioned in passing turned out to be the most important detail.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "テクノロジーが日常生活をどれほど早く変えるかって面白いと思うよ。",
+    "en": "What I find fascinating is how quickly technology transforms daily life.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "一番わくわくしたのは街のこの素敵な小さなジャズバーを発見したことだよ。",
+    "en": "What stoked me the most was discovering this neat little jazz bar in the city.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "広い聴衆に抽象的なアイデアを伝えようとすることが難しいと思うよ。",
+    "en": "What I find tricky is trying to articulate abstract ideas to a wide audience.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "一番大事なのは事態を悪化させずに落ち着いて進めることだよ。",
+    "en": "What matters most is that we proceed calmly without making things worse.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "長い一日の後に恋しかったのは温かい飲み物と良いおしゃべりだったよ。",
+    "en": "What I missed was a warm beverage and a good chat after a long day.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "彼女が展覧会のために作ったものは、部屋で一番鮮明な作品だったよ。",
+    "en": "What she crafted for the exhibition was easily the most vivid piece in the room.",
+    "deck": "重要構文_初級編"
+  },
+  {
+    "jp": "ほら、彼っていつも場を和ませようとしてスベるジョークを言うじゃん？",
+    "en": "You know how he always attempts to break the ice with a bad joke?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、彼女って頭は良いのに勉強にはあまり乗り気じゃないじゃん？",
+    "en": "You know how she's always been brainy but never really stoked about studying?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、私って朝のルーティン用に新しいカフェに変えようか考えてるって言ってたじゃん？",
+    "en": "You know how I've been contemplating switching to a new café for my morning routine?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、あの会場のWi-Fiっていつも不安定じゃん？",
+    "en": "You know how the Wi-Fi at that venue is always flimsy?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、私たちってずっとシステムのバグを取り除こうとしてるじゃん？",
+    "en": "You know how we've been trying to eradicate those pesky bugs from the system?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、トムって新しいテクノロジーに関してはとても機敏じゃん？",
+    "en": "You know how Tom is so switched-on when it comes to new technology?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、私って平日の夜はめったに外出しないじゃん？でも昨日は例外にしたんだよ。",
+    "en": "You know how I seldom go out on weeknights? Well, I made an exception yesterday.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ほら、うちのチームって大きなプロジェクトでいつも準備を後回しにするじゃん？",
+    "en": "You know how our team always puts the cart before the horse on big projects?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "明日までに提案を徹底的に精査してもらえたら、最高だよ。",
+    "en": "If you could thoroughly scrutinize the proposal by tomorrow, that would be awesome.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今月新しいインターンを指導してもらえたら、すごく助かるよ。",
+    "en": "If you could mentor the new interns this month, that would be great.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ミーティング用に飲み物を買ってきてくれたら、助かるよ。",
+    "en": "If you could grab some beverages for the meeting, that would be neat.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "始める前に議題を明確にしてもらえたら、本当に助かるよ。",
+    "en": "If you could clarify the agenda before we commence, that would be really helpful.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "レポートの簡単な要約を作ってもらえたら、すごくいいよ。",
+    "en": "If you could craft a brief summary of the report, that would be solid.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ゲストが到着する前にセッティングを手伝ってくれたら、嬉しいよ。",
+    "en": "If you could assist with the setup before the guests arrive, that would be stoked.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "私が魚をグリルしている間に玉ねぎを炒めてもらえたら完璧だよ。",
+    "en": "If you could sauté the onions while I grill the fish, that would be perfect.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ミーティングを1時間早めてもらえたらスムーズにいくよ。",
+    "en": "If you could advance the meeting by one hour, that would be smooth.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "3年ぶりに長いハイキングに行ったよ。足が完全にガタガタだよ。",
+    "en": "I went on a long hike for the first time in 3 years—my legs are totally worn out.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "久しぶりに昔の近所をぶらぶら歩いたよ。",
+    "en": "She strolled through the old neighborhood for the first time in ages.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "何ヶ月かぶりに寿司を食べたよ。最高だったよ。",
+    "en": "I grabbed sushi for the first time in months and it was amazing.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "何年かぶりにケーキを焼いてみたよ。ふわふわで美味しかったよ。",
+    "en": "He attempted to bake a cake for the first time in years—and it turned out airy and delicious.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "久しぶりにちゃんとおしゃべりするために集まったよ。",
+    "en": "We got together for a proper chat for the first time in a long while.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "5年ぶりに活気ある野外コンサートを見たよ。",
+    "en": "I witnessed a lively outdoor concert for the first time in 5 years.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "10年ぶりに駅で昔の知り合いに会ったよ。",
+    "en": "I encountered my old acquaintance at the station for the first time in 10 years.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "久しぶりにプロジェクトに本当にわくわくした気持ちを感じたよ。",
+    "en": "She felt truly stoked about a project for the first time in ages.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "競合のアイデアをいくつか取り入れて自分たちの売り上げを伸ばしたらどうする？",
+    "en": "What if we incorporate some of the competitor's ideas to boost our own sales?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "次のフェーズに進む前に資金が尽きたらどうする？",
+    "en": "What if the funds run out before we can advance to the next phase?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女がこの新しいチームのゆったりしたペースに慣れていなかったらどうする？",
+    "en": "What if she's not used to the mellow pace of this new team?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "Wi-Fiが不安定でスライドをうまく見せられなかったらどうする？",
+    "en": "What if the Wi-Fi is flimsy and we can't present the slides properly?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "プロセスのどこかで手を抜いたことを彼らが発見したらどうする？",
+    "en": "What if they discover that we cut corners somewhere in the process?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼が誰も指導することを拒んで知識を独り占めしたらどうする？",
+    "en": "What if he refuses to mentor anyone and keeps his knowledge to himself?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "シチューが予定よりもはるかに長く煮込む必要があったらどうする？",
+    "en": "What if the stew needs to simmer a lot longer than we planned?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "計画はしっかりしてるけどタイミングが完全にずれてたらどうする？",
+    "en": "What if the plan is solid but the timing is totally off?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "毎晩勉強してきたから、だから成績が着実に上がってきてるんだよ。",
+    "en": "I've been hitting the books every night—that's why my scores have been steadily going up.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女はいつも新しいチームメンバーをとても丁寧に指導してるから、だからみんなが彼女を大好きなんだよ。",
+    "en": "She always mentors the new team members with great care—that's why everyone loves her.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ここの雰囲気はいつもくつろいで穏やかだから、だから何度も来ちゃうんだよ。",
+    "en": "The atmosphere is always chill and mellow here—that's why I keep coming back.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼はどんな仕事でも手を抜かないから、だから彼の仕事はいつも完璧なんだよ。",
+    "en": "He never cuts corners on any task—that's why his work is always spotless.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "使えるリソースを全部使い切ったから、だからプロジェクトが成功したんだよ。",
+    "en": "We utilized the whole nine yards of available resources—that's why the project succeeded.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "チームと全てをオープンに話し合ったから、だから誤解が一切なかったんだよ。",
+    "en": "She communicated everything openly with the team—that's why there were no misunderstandings.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "毎日元気よくトレーニングしているから、だからあんなに元気いっぱいに見えるんだよ。",
+    "en": "He's been vigorously training every day—that's why he looks so fit as a fiddle.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "鶏肉を一晩マリネしたから、だからこんなにジューシーで美味しかったんだよ。",
+    "en": "I marinated the chicken overnight—that's why it turned out so juicy and flavorful.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この古い町並みがゆっくりと本来の魅力を失いつつある気がするよ。",
+    "en": "It feels like this ancient neighborhood is slowly losing its original charm.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "最近チームが無理して働きすぎている気がするよ。",
+    "en": "It feels like the team has been burning the candle at both ends lately.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "資金が最初に見積もったよりも早く尽きつつある気がするよ。",
+    "en": "It feels like the funds are running out faster than we initially estimated.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼は新しい役職に変わってからずっと元気がない気がするよ。",
+    "en": "It feels like he's been sluggish since he switched to that new role.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ここの雰囲気はいつものオフィスよりかなり穏やかな気がするよ。",
+    "en": "It feels like the atmosphere here is really mellow compared to our usual office.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "本当に活気のあるチームミーティングはめったにないような気がするよ。",
+    "en": "It feels like once in a blue moon that we get a truly lively team meeting.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は一週間ずっと新しいマネージャーの前で気を遣いすぎている気がするよ。",
+    "en": "It feels like she's been walking on eggshells around the new manager all week.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "このプロジェクトが計画よりもずっと進むのに時間がかかっている気がするよ。",
+    "en": "It feels like this project is taking way longer to proceed than we planned.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼が一人でそのプレゼン全体を作ったなんてありえないよ。",
+    "en": "There's no way he crafted that whole presentation without any assistance.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "あの古いノートパソコンが最新のソフトウェアをスムーズに動かせるなんてありえないよ。",
+    "en": "There's no way that ancient laptop can run the latest software smoothly.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女がだるいなんてありえないよ。毎日元気よくトレーニングしてるんだから！",
+    "en": "There's no way she's lethargic—she's been vigorously training every day!",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "適切な承認を得ずに進めるなんてありえないよ。",
+    "en": "There's no way they can proceed without obtaining proper authorization first.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "それがほんの少量のチリだなんてありえないよ。めちゃくちゃ多いじゃないか！",
+    "en": "There's no way that's only a tiny amount of chili—it's massive!",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女が何気なくあなたに知恵を借りてから一言も言わずに去ったなんてありえないよ。",
+    "en": "There's no way she just casually picked your brain and then left without a word.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "予算がそれら全ての追加コストをカバーするほど十分なんてありえないよ。",
+    "en": "There's no way the budget is slim enough to cover all those additional costs.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ただのカジュアルディナーのためにそこまで全力を尽くしたなんてありえないよ。",
+    "en": "There's no way he went the whole nine yards for just a casual dinner.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "外部ベンダーのイベント参加を許可してくれるかどうか分からないよ。",
+    "en": "I'm not sure if they'll permit outside vendors to participate in the event.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女がこういう会場の活気ある雰囲気に慣れているかどうか分からないよ。",
+    "en": "I'm not sure if she's used to the lively atmosphere of this kind of venue.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "資金がプロジェクトの両フェーズをカバーするほど十分かどうか分からないよ。",
+    "en": "I'm not sure if the funds are broad enough to cover both phases of the project.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "機器をアップグレードせずに次のレベルに進めるかどうか分からないよ。",
+    "en": "I'm not sure if we can advance to the next level without upgrading the equipment.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "このレシピで味が薄くなるか鮮やかになるかどうか分からないよ。",
+    "en": "I'm not sure if the flavor will be bland or vibrant with this recipe.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "床があの重い洗濯機を支えるほど丈夫かどうか分からないよ。",
+    "en": "I'm not sure if the floor is solid enough to handle that heavy washer.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼が本当にその仕事についてわくわくしているのかただ演じているだけかどうか分からないよ。",
+    "en": "I'm not sure if he's genuinely stoked about the job or just pretending.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今年企業を維持するのに十分な資本があるかどうか分からないよ。",
+    "en": "I'm not sure if we have enough capital to sustain the enterprise this year.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "そのデータを全部集めて、適切に活用しないなら意味があるの？",
+    "en": "What's the point of acquiring all that data if we never utilize it properly?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "素敵な計画を作っても、チームが無視するなら意味があるの？",
+    "en": "What's the point of crafting a neat plan if the team just ignores it?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "あなたが聞いていないなら、コミュニケーションを取ろうとすることに意味があるの？",
+    "en": "What's the point of attempting to communicate if you're not listening?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "頭のいいチームがいても、アイデアをオープンに議論しないなら意味があるの？",
+    "en": "What's the point of having a brainy team if we don't discuss ideas openly?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "すぐに調理するなら、お肉をマリネすることに意味があるの？",
+    "en": "What's the point of marinating the meat if you're going to cook it right away?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "プロセスを楽しまないなら、そんなに一生懸命努力することに意味があるの？",
+    "en": "What's the point of striving so hard if you don't enjoy the process?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "どうせケチャップを入れるなら、何時間もソースを煮込むことに意味があるの？",
+    "en": "What's the point of simmering the sauce for hours if you're just going to add ketchup anyway?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "新機能を使わないなら、毎年スマートフォンをアップグレードすることに意味があるの？",
+    "en": "What's the point of upgrading your smartphone every year if you don't use the new features?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "古い都市が活気ある現代のハブに変わるなんて面白いよね。",
+    "en": "It's fascinating how an ancient city can transform into a vibrant modern hub.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "緊張が高まると穏やかな雰囲気がどれほど早く変わるかって難しいよね。",
+    "en": "It's tricky how quickly the mellow atmosphere can shift when tension rises.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼が複雑なアイデアを誰にでもこんなに楽々と伝えられるなんて最高だよね。",
+    "en": "It's awesome how he can articulate complex ideas so effortlessly to anyone.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "人々が明らかな不正義に時々知らんふりをするなんてひどいよね。",
+    "en": "It's awful how people sometimes turn a blind eye to obvious injustice.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "この近所が日が暮れた後でこんなにも雰囲気が変わるなんて活気があるよね。",
+    "en": "It's lively how this neighborhood feels completely different after dark.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "うちのチームがいつも最後の最後に巧妙な解決策を見つけるなんて笑えるよね。",
+    "en": "It's wacky how our team always manages to discover a clever solution at the last minute.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女が議論全体の欠点を即座に見抜いたなんて鋭いよね。",
+    "en": "It's keen how she instantly discerned the flaw in the entire argument.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "今頃スープを煮込んでるはずなんだけど、気が散っちゃったよ。",
+    "en": "I'm supposed to be simmering the soup right now, but I got distracted.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今日インターンを指導するはずなんだけど、彼はまだ来ていないよ。",
+    "en": "He's supposed to mentor the interns today, but he hasn't shown up yet.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "締め切り前に契約書を徹底的に精査するはずなんだよね。",
+    "en": "We're supposed to thoroughly scrutinize the contract before the deadline.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "厳しい予算を守るはずなんだけど、このゴージャスなブランチは値打ちあったよ。",
+    "en": "I'm supposed to be on a strict budget, but this loaded brunch was worth every penny.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今朝プロジェクトのキックオフミーティングを始めるはずなんだよね。",
+    "en": "She's supposed to initiate the project kickoff meeting this morning.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "一緒に会場まで歩いていくはずなんだけど、誰も時間を確認してないよ。",
+    "en": "We're supposed to stroll over to the venue together, but no one confirmed the time.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今夜は勉強するはずなんだけど、おしゃべりしたい気分だよ。",
+    "en": "I'm supposed to hit the books tonight, but I feel like chatting instead.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今日中に資金を送金するはずなんだよね。",
+    "en": "He's supposed to transfer the funds by the end of the day.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "こんなにオープンにコミュニケーションを取ろうとする理由は、誤解を避けるためだよ。",
+    "en": "The reason I strive to communicate so openly is to avoid misunderstandings.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "整理整頓された作業空間を保つ理由は、よりクリアに考えるのに役立つからだよ。",
+    "en": "The reason I keep a tidy workspace is because it helps me think more clearly.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "長いミーティングの前にいつも飲み物を買う理由は、集中力を保つためだよ。",
+    "en": "The reason I always grab a beverage before a long meeting is to stay focused.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "平日の夜はめったに外出しない理由は、充電する時間が必要だからだよ。",
+    "en": "The reason I seldom go out on weeknights is that I need time to recharge.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "お肉をブレイズする方法を学んだ理由は、じっくり調理すると豊かな風味が出るからだよ。",
+    "en": "The reason I learned to braise meat is that slow cooking brings out rich flavors.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "幅広いスキルセットを磨いた理由は、どんな役職でも対応できるようにするためだよ。",
+    "en": "The reason I cultivated a broad skill set is to stay versatile in any role.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "いつも早く寝る理由は、翌日も元気でいたいからだよ。",
+    "en": "The reason I always hit the sack early is because I want to stay vigorous the next day.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "常に新しいレシピに挑戦する理由は、料理を楽しく新鮮に保つためだよ。",
+    "en": "The reason I constantly attempt new recipes is to keep cooking fun and fresh.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "自分の考えを伝えようと努力すればするほど、他の人にはっきりと理解されるようになるよ。",
+    "en": "The more you strive to articulate your thoughts, the more clearly others understand you.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "多様な視点を取り入れれば取り入れるほど、プロジェクトが活き活きしてくるよ。",
+    "en": "The more you incorporate diverse perspectives, the more vibrant your project becomes.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "他の人を指導すればするほど、自分の知識を強化することになるよ。",
+    "en": "The more you mentor others, the more you reinforce your own knowledge.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "着実に目標に向かって努力すればするほど、結果がしっかりしてくるよ。",
+    "en": "The more steadily you work toward your goals, the more solid your results become.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "技術を磨けば磨くほど、アウトプットが面白くなるよ。",
+    "en": "The more you cultivate your craft, the more fascinating your output becomes.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "率直であればあるほど、信頼を得られるようになるよ。",
+    "en": "The more candid and straightforward you are, the more trust you gain.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "スキルのある人の動き方を観察すればするほど、自分の直感が鋭くなるよ。",
+    "en": "The more you observe how skilled people operate, the more keen your own instincts become.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "アイデアをオープンに議論すればするほど、何か新しいものを発見しやすくなるよ。",
+    "en": "The more you discuss ideas openly, the more likely you are to discover something new.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- なんで食べてないの？ - ただ今日は料理がちょっと味気ないだけだよ。",
+    "en": "- Why aren't you eating? - It's just that the food tastes a bit bland today.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- 最近落ち込んでそうだね。 - ただ最近仕事がだるくて退屈なだけだよ。",
+    "en": "- You seem down lately. - It's just that work has been really sluggish and boring.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- なんで新しいチームメンバーとおしゃべりしないの？ - ただ最初はちょっと恥ずかしいだけだよ。",
+    "en": "- Why don't you ever chat with the new team members? - It's just that I'm a bit shy at first.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- 暗そうだね。大丈夫？ - ただ最近ちゃんと眠れてないだけだよ。",
+    "en": "- You look gloomy. Everything okay? - It's just that I haven't slept well lately.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- 最近新しいレシピに挑戦してないね。 - ただ疲れ果ててるだけだよ。",
+    "en": "- You haven't been attempting new recipes recently. - It's just that I've been exhausted.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- なんで入ってくる途中で飲み物を買わなかったの？ - ただ喉が渇いてなかっただけだよ。",
+    "en": "- Why didn't you grab a beverage on your way in? - It's just that I wasn't thirsty.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- 最近引っ込み思案だね。 - ただ大きな人生の決断についていろいろ考えてるだけだよ。",
+    "en": "- You seem withdrawn lately. - It's just that I've been contemplating some big life decisions.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "- なんでそんなに気を遣ってるの？ - ただ今日はボスがとても厳しそうなだけだよ。",
+    "en": "- Why are you walking on eggshells? - It's just that the boss seems really stern today.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今週末は多分何か焼いてみると思う。ケーキかマフィンかな。",
+    "en": "I'll probably attempt to bake something this weekend—maybe a cake or muffins.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "多分今夜夕食後に飲み物を買って散歩すると思うよ。",
+    "en": "I'll probably grab a beverage and take a stroll after dinner tonight.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "多分週末に友人とそれについておしゃべりすると思うよ。",
+    "en": "I'll probably chat with my companion about it over the weekend.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今夜は多分早く寝ると思うよ。もう完全に疲れ果ててるから。",
+    "en": "I'll probably hit the sack early tonight—I'm totally worn out.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "今夜は多分野菜を炒めるだけにして夕食をシンプルに新鮮にすると思うよ。",
+    "en": "I'll probably just sauté some veggies and keep dinner simple and fresh tonight.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "決める前に多分もう少し選択肢について考える必要があると思うよ。",
+    "en": "I'll probably need to contemplate my options a little more before deciding.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "多分2時間くらい勉強してから今日は終わりにすると思うよ。",
+    "en": "I'll probably just hit the books for a couple of hours and then call it a day.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "来月多分ラップトップをアップグレードすると思うよ。これはもう古すぎるよ。",
+    "en": "I'll probably upgrade my laptop next month—this one is way too ancient.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仕事が単調だとは思わないんだよ。ただちょっと休憩が必要なだけ。",
+    "en": "It's not that I find the work monotonous—I just need a short break.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "新しいポリシーに敵対的なわけじゃないんだよ。ただタイミングがずれてる感じがするだけ。",
+    "en": "It's not that I'm hostile to the new policy—it's just that the timing feels off.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "誰かを指導したくないわけじゃないんだよ。ただ今は余力がないだけ。",
+    "en": "It's not that I don't want to mentor anyone—I just don't have the bandwidth right now.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "計画がダメだとは思わないんだよ。ただもう少し磨けると思うだけ。",
+    "en": "It's not that I think the plan is lame—I just think we can refine it a bit more.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "そのカフェが味気ないわけじゃないんだよ。ただ探していたような活気ある雰囲気がなかっただけ。",
+    "en": "It's not that the café is bland—it just doesn't have that vibrant energy I was looking for.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "だるいわけじゃないんだよ。ただよく眠れなかっただけで、しっかりした飲み物が必要なんだよ。",
+    "en": "It's not that I'm sluggish—I just didn't sleep well and need a strong beverage.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "外が嫌いなわけじゃないんだよ。ただ今日は外がめちゃくちゃ暑いだけだよ。",
+    "en": "It's not that I dislike the outdoors—it's just that it's boiling outside today.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "しくじりたいわけじゃないんだよ。ただ今やることが信じられないくらい多いだけだよ。",
+    "en": "It's not that I want to drop the ball—it's just that my plate is incredibly hefty right now.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ちゃんとした飲み物を買わないと1日を始めることができないよ。",
+    "en": "She can't start her day without grabbing a proper beverage first.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "一つの挫折にも遭遇することなく決勝まで進んだよ。",
+    "en": "He managed to advance to the finals without encountering a single setback.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "メンターのもとで正式に学ぶことなく技術を向上させたよ。",
+    "en": "She improved her craft without ever formally studying under a mentor.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "水を一口も飲まずにハイキング全体を終えたよ。大失敗だったよ。",
+    "en": "I finished the whole hike without sipping a single drop of water—big mistake.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "地元の人とおしゃべりしないと、その文化を本当に理解することはできないよ。",
+    "en": "You can't really comprehend the culture without chatting with locals.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "一つも明確にすることなく会議を去ったから、大きな混乱を引き起こしたよ。",
+    "en": "He left the meeting without clarifying a single point, which caused a lot of confusion.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "合意の条件を徹底的に精査することなく進んではダメだよ。",
+    "en": "Don't proceed without thoroughly scrutinizing the terms of the agreement.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "これから何が起こるか全く分からないまま、彼女は楽しそうに部屋に入ってきたよ。",
+    "en": "She cheerfully walked into the room without any idea what was about to happen.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "一番くつろいでいる時に一番活き活きしたアイデアが浮かぶとよく言われるよ。",
+    "en": "It's said that the most vibrant ideas often come when you're most relaxed.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "最高のメンターは、かつて自分も指導を受けた人たちだとよく言われるよ。",
+    "en": "It's said that the best mentors are those who were once mentored themselves.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "整理整頓された作業空間は生産性を大幅に上げることができるとよく言われるよ。",
+    "en": "It's said that a tidy workspace can boost your productivity significantly.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "新しい都市をぶらぶらすればするほど、どんどん発見があるとよく言われるよ。",
+    "en": "It's said that the more you stroll around a new city, the more you discover.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "本当の問題が関わっている時は、過去のことを蒸し返さないようにするべきだとよく言われるよ。",
+    "en": "It's said that you should never let sleeping dogs lie when a real issue is at stake.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "一番頼りになる仲間は、どんな時でもあなたのそばにいてくれる人たちだとよく言われるよ。",
+    "en": "It's said that the most reliable companions are those who stick with you through thick and thin.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "鋭く観察眼があると、他の人が見逃しやすいことを明らかにできるとよく言われるよ。",
+    "en": "It's said that being keen and observant can reveal what others easily miss.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めったにない機会が本当に人生の流れを変えることがあるとよく言われるよ。",
+    "en": "It's said that once in a blue moon opportunities truly change the course of your life.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮にキャリアチェンジするとしたら、多分クリエイティブな分野に踏み出すだろうな。",
+    "en": "If I were to switch careers, I would probably embark on something in the creative field.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮に誰かを指導するとしたら、率直で励ますようにするだろうな。",
+    "en": "If I were to mentor anyone, I would strive to be straightforward and encouraging.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮に海外に住むとしたら、食文化が豊かな活気ある都市を選ぶだろうな。",
+    "en": "If I were to live abroad, I would choose a vibrant city with a great food scene.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮に今投資するとしたら、多分テクノロジーセクターの株を取得するだろうな。",
+    "en": "If I were to invest right now, I would probably acquire shares in the tech sector.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮に長い休暇を取るとしたら、ハイキングに行って充電して過ごすだろうな。",
+    "en": "If I were to take a long break, I would spend it going on hikes and recharging.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮に新しい企業を始めるとしたら、過去の失敗から学んだことを取り入れるだろうな。",
+    "en": "If I were to start a new enterprise, I would incorporate lessons from my past failures.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮にディナーパーティーを開くとしたら、牛肉をじっくりブレイズして完璧に仕上げるだろうな。",
+    "en": "If I were to host a dinner party, I would slowly braise the beef to perfection.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "仮に作業空間をアップグレードするとしたら、もっと広々として開放的にするだろうな。",
+    "en": "If I were to upgrade my workspace, I would make it more expansive and airy.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ面白い小説だったから、休みなしに全部読んでしまったよ。",
+    "en": "It's such a fascinating novel that I read the whole thing without taking a break.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ活気あるイベントだったから、一番内向的な人たちもおしゃべりを始めたよ。",
+    "en": "It was such a lively event that even the most introverted people started chatting.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ大変な仕事量だから、タイムラインを大幅に早める必要があるよ。",
+    "en": "It's such a hefty workload that we'll need to advance our timeline significantly.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ変な逸話だったから、彼が話した時みんな大笑いしたよ。",
+    "en": "It's such a wacky anecdote that everyone was in stitches when he told it.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ暗い物語だったから、人生の儚さについて考えさせられたよ。",
+    "en": "It was such a gloomy narrative that it made me contemplate the fragility of life.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ洗練されたスマートフォンだったから、すぐに入手せずにはいられなかったよ。",
+    "en": "It's such a sleek smartphone that I couldn't help but acquire one immediately.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ素晴らしいパフォーマンスだったから、観客全員が笑って歓声を上げたよ。",
+    "en": "It was such a solid performance that the whole audience chuckled and cheered.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "めちゃくちゃ活気ある大都市だから、やることが尽きることがないよ。",
+    "en": "It's such a vibrant metropolis that you never run out of things to do.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "次のキャリアの動きをより慎重に計画しないといけない段階にいるよ。",
+    "en": "I'm at the stage where I need to strategize my next career move more carefully.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "他の人を指導しながら自分でも学び続けることができる段階にいるよ。",
+    "en": "I'm at the stage where I can mentor others and still keep learning myself.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "常に指導を必要とせずに前進できる段階にいるよ。",
+    "en": "I'm at the stage where I'm able to advance without needing constant guidance.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "全く新しいチャレンジに踏み出す時が来た段階にいるよ。",
+    "en": "I'm at the stage where it's time to embark on a completely new challenge.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "自分の分野の高度な概念を楽々と理解できる段階にいるよ。",
+    "en": "I'm at the stage where I can effortlessly grasp advanced concepts in my field.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "より広いプロフェッショナルネットワークを築く必要がある段階にいるよ。",
+    "en": "I'm at the stage where I need to cultivate a broader professional network.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "レシピがなくても野菜炒めや煮込み料理を作ることができる段階にいるよ。",
+    "en": "I'm at the stage where I can stir-fry and braise dishes without needing a recipe.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "より難しいプロジェクトに取り組むのに十分自信が持てる段階にいるよ。",
+    "en": "I'm at the stage where I feel solid enough to attempt tackling tougher projects.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この面白い小説は全ての細部を理解するために2回読む価値があるよ。",
+    "en": "This fascinating novel is worth reading twice to grasp every detail.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "あの活気ある近所は晴れた午後にぶらぶら歩く価値があるよ。",
+    "en": "That vibrant neighborhood is worth strolling through on a sunny afternoon.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "余裕の資本があるなら、その新しい企業には投資する価値があるよ。",
+    "en": "The new enterprise is worth investing in if you have the capital to spare.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この洗練された新しいラップトップは絶対にアップグレードする価値があるよ。",
+    "en": "This sleek new laptop is definitely worth upgrading to.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "あのレストランのブレイズした牛肉はじっくり考える価値があるよ。信じられないほど美味しかったよ。",
+    "en": "The braised beef at that restaurant is worth simmering over—it was incredible.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "キャリアの早い段階でメンターを持つことは絶対に価値があるよ。",
+    "en": "Getting a mentor early in your career is absolutely worth doing.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "日没時に海岸沿いを散歩することは少なくとも一度する価値があるよ。",
+    "en": "Taking a stroll along the waterfront at sunset is worth doing at least once.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "あの景色の良い場所へのハイキングは努力する価値があるよ。約束するよ。",
+    "en": "Going on a hike to that scenic spot is worth the effort, I promise.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "メンターについて好きなところは、彼女がいつも率直でいいことばかり言わないところだよ。",
+    "en": "What I like about my mentor is that she's always straightforward and never sugarcoats things.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この活気あるカフェについて好きなところは、いつも賑やかだけどうるさすぎないところだよ。",
+    "en": "What I like about this vibrant café is that it's always lively but never too noisy.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この大都市について好きなところは、毎日散歩しながら何か新しいものを発見できるところだよ。",
+    "en": "What I like about this metropolis is how you can stroll and discover something new every day.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ブレイズ料理を作るところで好きなのは、豊かで深みのある風味が出るところだよ。",
+    "en": "What I like about cooking braised dishes is the rich, deep flavor you get.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "友人について好きなところは、彼女がいつも温かくて本物であるところだよ。",
+    "en": "What I like about my companion is that she's always warm-hearted and genuine.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "くつろいだ職場環境について好きなところは、創造性がより自然に花開くところだよ。",
+    "en": "What I like about a chill workplace is that creativity flourishes more naturally.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この洗練されたデザインについて好きなところは、コンパクトだけどとても機能的なところだよ。",
+    "en": "What I like about this sleek design is that it's compact but highly functional.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼について好きなところは、問題を放置せず正面から取り組むところだよ。",
+    "en": "What I like about him is that he never lets sleeping dogs lie—he addresses issues head-on.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は「これはめちゃくちゃ面白いプロジェクトだよ。超わくわくしてる！」と言ったよ。",
+    "en": "She was like, \"This is such a fascinating project—I'm totally stoked!\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼は「今回は絶対にしくじらないよ」と言ったよ。",
+    "en": "He was like, \"There's no way I'm going to drop the ball on this one.\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "私は「どうすりゃいいか分かんないよ、これは難しすぎる」と思ったよ。",
+    "en": "I was like, \"IDK what to do, this is way too tricky.\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は「OMG、夜のこの都市がどれほど活気があるか信じられない！」と言ったよ。",
+    "en": "She was like, \"OMG, I can't believe how vibrant this city is at night!\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼は「正直言うと、この状況全体がちょっとダメだと思うよ」と言ったよ。",
+    "en": "He was like, \"TBH, I find this whole situation a bit lame.\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は「嘘つかないけど、あの逸話にめちゃくちゃ笑っちゃったよ」と言ったよ。",
+    "en": "She was like, \"NGL, that anecdote made me giggle so much.\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼は「ところで、もっと資本なしで進めるか分からないよ」と言ったよ。",
+    "en": "He was like, \"BTW, I'm not sure if we can proceed without more capital.\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "私は「参考までに、ここのWi-Fiはめちゃくちゃ不安定だからストリーミングには期待しないでね」と言ったよ。",
+    "en": "I was like, \"FYI, the Wi-Fi here is super flimsy, so don't count on streaming.\"",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "締め切り前に資金が尽きるかもしれない。もしそうなったらプロジェクトを停止しないといけないよ。",
+    "en": "The funds might run out before the deadline, in which case we'll have to halt the project.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼はリモートワークのゆったりしたペースに慣れていないかもしれない。もしそうなったら、もっと頻繁に確認すべきだよ。",
+    "en": "He might not be used to the chill pace of remote work, in which case we should check in more often.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "その週メンターが不在かもしれない。もしそうなったら、他の誰かに手伝ってもらうべきだよ。",
+    "en": "The mentor might be unavailable that week, in which case we should find someone else to assist.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ブレイズしても牛肉が柔らかくならないかもしれない。もしそうなったらもう少し煮込む必要があるよ。",
+    "en": "The beef might not be tender after braising, in which case it needs to simmer a bit longer.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "新しい企業が十分な資本を確保するのに苦労するかもしれない。もしそうなったら投資家を探すべきだよ。",
+    "en": "The new enterprise might struggle to acquire enough capital, in which case we should seek investors.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "朝だるく感じるかもしれない。もしそうなったら、しっかりした飲み物が役立つよ。",
+    "en": "She might feel sluggish in the morning, in which case a strong beverage will help.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "会場のWi-Fiが完全に不安定かもしれない。もしそうなったらモバイルデータを使うべきだよ。",
+    "en": "The Wi-Fi might be totally flimsy at the venue, in which case we should use mobile data.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "イベントが大勢の人を引き付けるかもしれない。もしそうなったらもっと多くのボランティアの手助けが必要だよ。",
+    "en": "The event might attract a massive crowd, in which case we'll need more volunteers to assist.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "指導のことになると、彼女は会社全体で文句なしに最高だよ。",
+    "en": "When it comes to mentoring, she's hands down the best in the entire company.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "活き活きしたブランドアイデンティティを作ることになると、創造性が一番重要だよ。",
+    "en": "When it comes to crafting a vibrant brand identity, creativity matters most.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "新しいスキルを身につけることになると、着実に練習すればするほど良くなるよ。",
+    "en": "When it comes to acquiring new skills, the more steadily you practice, the better.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "料理のことになると、一番いい風味を出すためにいつもソースをゆっくり煮込むよ。",
+    "en": "When it comes to cooking, I always simmer sauces slowly for the best flavor.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "資金を賢く管理することになると、急がずに進むことが大切だよ。",
+    "en": "When it comes to managing funds wisely, it's crucial to proceed without rushing.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "パーティーで場を和ませることになると、型破りなゲームがいつも効果的だよ。",
+    "en": "When it comes to breaking the ice at a party, a wacky game always works.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "作業空間を整理整頓することになると、一貫性が時々する徹底的な掃除よりも勝るよ。",
+    "en": "When it comes to keeping a tidy workspace, consistency beats occasional deep cleaning.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "何か新しいことを試みることになると、少し大胆なことが常に報われるよ。",
+    "en": "When it comes to attempting something new, being a little bold always pays off.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼はエプロンをすでに着けた状態でキッチンに入ってきたよ。グリルの準備ができてたよ。",
+    "en": "He walked into the kitchen with the apron already on, ready to grill.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女はノートを開いた状態で机に座って、熱心に全ての詳細を書き留めていたよ。",
+    "en": "She sat at her desk with her notebook open, eagerly taking down every detail.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼は洗練された新しいラップトップを手に持った状態でプレゼン全体を行ったよ。",
+    "en": "He gave the entire presentation with his sleek new laptop in hand.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "テレビをつけたまま寝てしまったよ。本当に悪い習慣だよ。",
+    "en": "I went to bed with the TV on, which is such a bad habit.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は温かい飲み物を前に置いた状態でカフェに座って深く考え込んでいたよ。",
+    "en": "She was sitting in the café with a warm beverage in front of her, deeply contemplating.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "予期しない雨で服が完全にびしょぬれになった状態でハイキングから帰ってきたよ。",
+    "en": "He returned from the hike with his clothes totally soaked from the unexpected rain.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は短いけどしっかりした要約をすでに準備した状態でミーティングに現れたよ。",
+    "en": "She showed up at the meeting with a brief but solid summary already prepared.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼は腕を組んだ状態で前に立って、とても厳しそうに見えたよ。",
+    "en": "He stood at the front with his arms crossed, looking very stern.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "前もって計画しないと仕事量がどれだけ大変になるか分かってないよ。",
+    "en": "You have no idea how massive the workload becomes when you don't plan ahead.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "メンターがついに準備ができてると言ってくれた時、どれだけわくわくしたか説明できないよ。",
+    "en": "I can't explain how stoked I was when my mentor finally said I was ready.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "もっと資本がなかったら、前進できる可能性がどれだけ薄いか分かってないよ。",
+    "en": "You don't know how slim our chances are of advancing without more capital.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この近所がここ数年でどれほど活気ある場所になったか信じられないよ。",
+    "en": "I can't believe how vibrant this neighborhood has become over the past few years.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "こんなに幅広い聴衆に自分のアイデアを伝えるのがどれだけ難しいか、彼女は全く分かってなかったよ。",
+    "en": "She had no idea how tricky it would be to articulate her ideas to such a broad audience.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "アップグレードする前の古いラップトップがどれだけ動きが遅かったか分かってないよ。",
+    "en": "You have no idea how sluggish my old laptop was before I upgraded it.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "メンターのアドバイスがどれだけ頼りになったか表現できないよ。本当にキャリアが変わったよ。",
+    "en": "I can't express how solid the mentor's advice was—it genuinely changed my career.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "自分の分野の最高の人を本当に観察するまで、自分の直感がどれだけ鋭くなるか気づかないよ。",
+    "en": "You never realize how keen your instincts become until you truly observe the best in your field.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "ネットワーキングイベントでとても頭の良い起業家とおしゃべりする機会があったよ。",
+    "en": "I got to chat with a really brainy entrepreneur at the networking event.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "彼女は一学期間、やる気のある多くのインターンを指導する機会があったよ。",
+    "en": "She got to mentor a whole group of eager interns for an entire semester.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "街の中で一番活気ある近所のいくつかをぶらぶら歩く機会があったよ。",
+    "en": "We got to stroll through some of the most vibrant neighborhoods in the city.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "しっかりしたチームがどれだけ結果を大幅に伸ばせるか、直接目撃する機会があったよ。",
+    "en": "I got to witness firsthand how a solid team can amplify results dramatically.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "旅行中に一番面白い古代遺跡のいくつかを発見する機会があったよ。",
+    "en": "He got to discover some of the most fascinating ancient ruins on his trip.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "マスターシェフが羊の丸ごとの足を楽々とブレイズするのを観察する機会があったよ。",
+    "en": "I got to observe a master chef effortlessly braise a whole leg of lamb.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "一度も負けることなく決勝ラウンドに進む機会があったよ。",
+    "en": "She got to advance to the final round without encountering a single loss.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "業界で一番機敏なリーダーの一人から知恵を借りながら午後を過ごす機会があったよ。",
+    "en": "We got to spend an afternoon picking the brain of one of the most switched-on leaders in the industry.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この資格を取りたいなら、もっとずっと勉強しないといけないよ。",
+    "en": "I'm going to have to hit the books a lot harder if I want to pass this certification.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "来週から新しい社員を指導しないといけないよ。準備はできてる？",
+    "en": "You're going to have to mentor the new employees starting next week—are you ready?",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "適切な承認を得るまで全ての活動を停止しないといけないよ。",
+    "en": "We're going to have to halt all activities until we obtain proper authorization.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "スムーズに進めたいなら、彼女はあの古いラップトップをアップグレードしないといけないよ。",
+    "en": "She's going to have to upgrade that ancient laptop if she wants to proceed smoothly.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "その契約書にサインする前に全ての条項を精査しないといけないよ。",
+    "en": "You're going to have to scrutinize every clause before you sign that agreement.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "若い顧客を引き付けるためにもっと活き活きしたブランドアイデンティティを作らないといけないよ。",
+    "en": "We're going to have to craft a more vibrant brand identity to attract younger customers.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "この会社で次のレベルに上がるためにもっとずっと努力しないといけないよ。",
+    "en": "I'm going to have to strive a lot harder to advance to the next level in this company.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "そのスープはもっとずっと煮込まないといけないよ。まだ味が薄いよ。",
+    "en": "You're going to have to simmer that broth a lot longer—it still tastes bland.",
+    "deck": "重要構文_中上級編"
+  },
+  {
+    "jp": "継続すれば新しい言語をこんなに早く理解できるって本当に面白いよね。",
+    "en": "It's fascinating how quickly you can grasp a new language if you're consistent.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "週末が来るとみんなこんなに盛り上がるって本当にすごいよね。",
+    "en": "It's amazing how stoked everyone gets when the weekend finally arrives.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "チャンスがほぼなかったのに、それでもやり遂げるって本当にやばいよね。",
+    "en": "It's crazy how slim the chance was, but he still managed to pull it off.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "何をしても月曜の朝ってこんなにだるいって不思議だよね。",
+    "en": "It's wild how sluggish I feel on Monday mornings no matter what.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "タイトなスケジュールだったのに、イベント全体がこんなにスムーズに進んだってすごいよね。",
+    "en": "It's incredible how smoothly the whole event went despite the tight schedule.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "ライブコンサートの雰囲気ってこんなに活気があるんだってすごいよね。",
+    "en": "It's awesome how vibrant the atmosphere gets at a live concert.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "自信がどれほど仕事のパフォーマンスを上げるか、本当にびっくりだよね。",
+    "en": "It's wild how much your confidence can boost your performance at work.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "人生って予期せずこんなに変わるもんだって面白いよね。",
+    "en": "It's funny how things can shift so unexpectedly in life.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、自分の天職が人生に意味を与えてくれるんだよ。",
+    "en": "At the end of the day, it's your vocation that gives your life meaning.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、みんな周りの人からの愛情を感じたいんだよね。",
+    "en": "At the end of the day, we all just want to feel that sense of affection from the people around us.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、成長するためのチャンスを最大限に活用しないといけないよ。",
+    "en": "At the end of the day, you need to utilize every chance you get to grow.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、大切な仲間を近くに置くことが一番大事なんだよ。",
+    "en": "At the end of the day, keeping your companion close matters more than anything.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、持っている資金じゃなくて、考え方が大事なんだよ。",
+    "en": "At the end of the day, it's not about the capital you have — it's about your mindset.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、自分の最善の姿を目指して努力しないとね。",
+    "en": "At the end of the day, you have to strive to be the best version of yourself.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、正直なところ、全力を尽くしたかどうかが大事なんだよ。",
+    "en": "At the end of the day, what matters is whether you gave it your all, TBH.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "結局は、同僚との確かな関係を築くことが重要なんだよ。",
+    "en": "At the end of the day, building a solid relationship with your colleagues is key.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "この新しいプロジェクトを始めたいんだけど、まず資金がもっと必要で、分かる？",
+    "en": "I want to embark on this new project but I need more funds first, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "進める前に少しアプローチを変える必要がある気がするんだけど、分かる？",
+    "en": "I feel like we need to alter our approach a bit before we proceed, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "才能よりも良い習慣を育てることの方が大事って感じで、分かる？",
+    "en": "It's more about cultivating good habits than being talented, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "毎朝ぎこちなく起きないように、朝のルーティンを最適化したくて、分かる？",
+    "en": "I want to optimize my morning routine so I'm not always stiffly dragging myself out of bed, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "今日は安いところでランチして、週末のために資金を取っておきたいんだよね、分かる？",
+    "en": "I'd rather grab lunch somewhere cheap today and save my capital for the weekend, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "誰もルールに従おうとしなかったからプロジェクトが失敗した気がするんだけど、分かる？",
+    "en": "I feel like the project went down in flames because nobody wanted to toe the line, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "私は朝型なので午前6時に仕事を始めたいんだけど、分かる？",
+    "en": "I'm more of a morning person so I prefer to commence my work at 6 am, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "成績というよりも、実際に理解できているかどうかの方が大事で、分かる？",
+    "en": "It's not really about the grade — it's about what you actually comprehend, if that makes sense.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、失敗はアプローチを磨くチャンスにすぎないよ。",
+    "en": "If you think about it, every failure is just a chance to refine your approach.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、毎日の散歩が精神的な健康に一番いいことの一つかもしれないよ。",
+    "en": "If you think about it, your daily stroll could be one of the best things for your mental health.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、他の人を助けるためにボランティアをすると、自分も幸せになれるよ。",
+    "en": "If you think about it, volunteering to aid others actually makes you happier too.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、わずかなチャンスでもチャンスだから、試してみるしかないよ。",
+    "en": "If you think about it, a slim chance is still a chance — you just have to attempt it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、私たちが住む大都市には必要なものが全て揃っているんだよね。",
+    "en": "If you think about it, the metropolis we live in has everything we need within reach.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、単調な仕事でも学べることがあるよ。",
+    "en": "If you think about it, even a monotonous job has something you can learn from.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "考え方によれば、継続的に勉強する方が一夜漬けよりも効果的だよ。",
+    "en": "If you think about it, hitting the books consistently is more effective than cramming.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "最近燃え尽きそうなくらい頑張りすぎてて、休憩が必要な感じがするんだよね、分かる？",
+    "en": "I just feel like I'm burning the candle at both ends lately and I need a break, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "手を抜きたくないんだよね、やるなら徹底的にやろうよ、分かる？",
+    "en": "I don't want to cut corners on this — if we're gonna do it, let's go the whole nine yards, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "チームには指示するだけの先生じゃなくて、メンターが必要な気がするんだよね、分かる？",
+    "en": "I feel like the team needs a mentor, not just an instructor telling us what to do, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "旅行が楽しみなんだけど、正直資金が厳しくて、分かる？",
+    "en": "I'm stoked about the trip but honestly the funds are running low, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女はすごく温かくて気前がいいんだよね、あの人への愛情みたいなものがあって、分かる？",
+    "en": "She's been really warm and generous, it's that fondness she has for people, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "最近料理の腕が落ちた気がして、何を作っても味気なくなっちゃうんだよね、分かる？",
+    "en": "I feel like I've lost my touch with cooking lately — everything I make turns out bland, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "もっと決断力をつけて、何事にもいつも日和見にならないようにしたいんだよね、分かる？",
+    "en": "I want to be more decisive and not always sit on the fence about everything, you know what I mean?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "この新しいトナーを1週間とかその辺使ったら、もう肌がきれいに見えてきたよ。",
+    "en": "I've been using this new toner for a week or so and my skin already looks fresh.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "グリルする前に鶏肉を1時間とかその辺マリネしないといけないよ。",
+    "en": "I need to marinate the chicken for an hour or so before grilling it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "その集まりには20人とかその辺いたと思うよ、すごく活気があったね。",
+    "en": "I'd say there were 20 people or so at the gathering — it was a lively crowd.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "オーブンを予熱して全部準備するのに30分とかその辺かかるよ。",
+    "en": "It'll take me 30 minutes or so to preheat the oven and get everything ready.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "もう1年とかその辺、転職を考えてるんだよね。",
+    "en": "I've been contemplating changing careers for a year or so now.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "すぐ戻る、店でちょっと買い物してくるから5分とかその辺で戻るよ。",
+    "en": "BRB, I'm gonna grab something from the store — I'll be back in 5 minutes or so.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "1年とかその辺でコツコツ上達して、今はすごくうまいよ。",
+    "en": "She steadily improved over a year or so, and now she's amazing.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "ハイキング全体で3時間とかかかったけど、完全に価値があったよ。",
+    "en": "The whole hike took us three hours or so, but it was totally worth it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "主に仕事とか人生の目標とかそういうことについて話したよ。",
+    "en": "We mostly talked about our vocations and stuff — you know, work and life goals.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "最近料理にはまってて、グリルとか炒め物とかそういうのをやってるよ。",
+    "en": "I've been into cooking lately — grilling, stir-frying and stuff like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女はスキンケアにすごくはまってて、トナーとかローションとかそういうのをやってるよ。",
+    "en": "She's really into skincare — toner, lotion and stuff.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼はいつも事業とかそういうことで忙しくて、自由な時間がほとんどないよ。",
+    "en": "He's always busy with his enterprise and stuff, so he rarely has free time.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "夜は映画見たり飲み物飲んだりとかでのんびりするのが好きだよ。",
+    "en": "In the evening I like to just chill — watch a film, have a beverage and stuff.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女は都市計画とかそういうことについてよく知ってるから、聞くなら彼女が一番だよ。",
+    "en": "She knows a lot about urban planning and stuff, so she's the right person to ask.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "一緒に良い時も悪い時も、旅行とか失敗とかいろいろ経験してきたよ。",
+    "en": "We've been going through thick and thin together — travels, setbacks and stuff.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女は小説を書いている途中とかなんとか言ってたよ。",
+    "en": "She said she's in the process of writing a novel or something like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼は小さな事業をやってて、コンサルティング会社とかなんとかそういうのだよ。",
+    "en": "He runs a small enterprise — a consulting firm or something like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女は医者とかなんとかそういう人で、いつも健康のアドバイスをしてるよ。",
+    "en": "She's a physician or something like that — always giving health advice.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "レシピには30分煮込むとかなんとか書いてあったと思う。",
+    "en": "I think the recipe says to simmer it for 30 minutes or something like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼は方向感覚がとても鋭くて、内蔵GPSみたいな感じとかなんとかそういうものだよ。",
+    "en": "He's got a keen sense of direction — like a built-in GPS or something like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女はキャンセルについて残念に思ってるとかなんとか言ってたよ。",
+    "en": "She mentioned she was bummed about the cancellation or something like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼はできるだけ早く来るとかなんとか言ってたけど、まだ来てないよ。",
+    "en": "He said he'd be available ASAP or something like that, but he still hasn't shown up.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼らはアウトドアマーケット、フリーマーケットとかなんとかそういうところに行ったよ。",
+    "en": "They went to an outdoor market — a flea market or something like that.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "ほぼ完璧なソテーを作る技術を習得したよ。",
+    "en": "I've pretty much mastered the art of making a perfect sauté.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "会議はほぼ予想通りに進んだよ、特に驚くことはなかった。",
+    "en": "The meeting went pretty much as expected — nothing too surprising.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "リスクに関わらず、この新しい挑戦に踏み出すことをほぼ決めたよ。",
+    "en": "I've pretty much decided to embark on this new venture regardless of the risk.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼が伝えようとしていたことはほぼそれだよ、うまく言えなかっただけで。",
+    "en": "That's pretty much what he was trying to convey — just couldn't articulate it well.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "2時間かけて掃除したら部屋がほぼ完璧にきれいになったよ。",
+    "en": "The room is pretty much spotless after we cleaned it for two hours.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "今ほぼ夕食の準備ができてるよ、パスタの水を切るだけ。",
+    "en": "RN, I'm pretty much done with preparing dinner — just need to drain the pasta.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女はほぼ間違いなく私がこれまで会った中で一番頭のいい人だよ。",
+    "en": "She's pretty much the most brainy person I've ever met in my life.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "ソテーした玉ねぎ、おいしかった？ちょっと違う？",
+    "en": "The sautéed onions taste good to you, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "新しいプロジェクト楽しみ？ちょっと違う？",
+    "en": "Are you stoked about the new project, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "そのメンターについてのエピソード、共感できた？ちょっと違う？",
+    "en": "Did that anecdote about the mentor resonate with you, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "新しいソフトウェアのアップグレード、実際に役に立ってる？ちょっと違う？",
+    "en": "Is the new software upgrade actually useful, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "運動後すごく元気な感じがした？ちょっと違う？",
+    "en": "You're feeling fit as a fiddle after the workout, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "全力でやったアプローチ、うまくいった？ちょっと違う？",
+    "en": "Did the whole nine yards approach work out, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "自分でチーズを削ったら、味に違いが出た？ちょっと違う？",
+    "en": "Did grating the cheese yourself make a difference to the taste, or not really?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "このプロジェクトはかなり注目を集める気がする、それくらい出来がいいから。",
+    "en": "I have a feeling this project is going to generate a lot of buzz — it's that solid.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女はすごく早く次のレベルに上がる気がするよ。",
+    "en": "I have a feeling she's going to advance to the next level really quickly.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "今は自分たちが主導権を持っている気がするよ、あとは正しい動きをするだけだ。",
+    "en": "I have a feeling the ball's in our court now — we just need to make the right move.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "このレシピ、慣れたら簡単なものになる気がするよ。",
+    "en": "I have a feeling this recipe is going to be a piece of cake once I get the hang of it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "割とすぐに物事が良い方向に変わる気がするよ。",
+    "en": "I have a feeling things are going to shift for the better pretty soon.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼はこれを失敗する気がするよ、いつもプレッシャーの下で失敗するから。",
+    "en": "I have a feeling he's going to dropped the ball on this one — he always does under pressure.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "アイスブレイクさえできれば、ミーティング全体がスムーズに進む気がするよ。",
+    "en": "I have a feeling that once we break the ice, the whole meeting will go smoothly.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "この活気ある地域は多くの新しい住民を引き寄せる気がするよ。",
+    "en": "I have a feeling this lively neighborhood is going to attract a lot of new residents.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- この新しいスマートフォンのデザインめっちゃスタイリッシュだよね！ / - ほんとそれ！すぐアップグレードしたい。",
+    "en": "- This new smartphone has such a sleek design! / - I know, right? I want to upgrade immediately.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 楽しいと時間が経つのが早いって本当におかしいよね！ / - ほんとそれ！もう真夜中だよ。",
+    "en": "- It's crazy how the time flies when you're having fun! / - I know, right? It's already midnight.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 彼女の優雅なパフォーマンスって信じられなかったよね！ / - ほんとそれ！すごく才能があるよね。",
+    "en": "- The way she gracefully performed was unbelievable! / - I know, right? She's incredibly talented.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 今日は本当に暑いよね！ / - ほんとそれ！溶けそう。",
+    "en": "- The weather is boiling hot today! / - I know, right? I feel like I'm melting.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- あのドキュメンタリー、本当に鮮明で感動的だったよね！ / - ほんとそれ！すごく感動した。",
+    "en": "- That documentary was so vivid and impactful! / - I know, right? I was deeply moved.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- このイベントの企画に本当に全力を尽くしたよね！ / - ほんとそれ！主催者が全力を注いだよね。",
+    "en": "- The whole nine yards went into planning this event! / - I know, right? The organizers really gave it their all.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- あの曲めっちゃ頭に残るよね！ / - ほんとそれ！一日中鼻歌歌ってたよ。",
+    "en": "- That tune is so catchy I can't get it out of my head! / - I know, right? I've been humming it all day.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "うまくソテーできるようになるのは、練習あるのみみたいなものだよ。",
+    "en": "Learning to sauté well is a practice makes perfect kind of thing.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "メンターから定期的にフィードバックをもらうのは、成長には欠かせないみたいなものだよ。",
+    "en": "Getting your mentor's feedback regularly is a non-negotiable kind of thing for growth.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "ネットワーキングイベントでのアイスブレイクは、ソーシャルスキルみたいなもので、学べるよ。",
+    "en": "Breaking the ice at networking events is a social skill kind of thing — you can learn it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "語彙を増やすのは、ゆっくり着実に進めるみたいなものだよ、急がないで。",
+    "en": "Building your vocabulary is a slow and steady kind of thing — don't rush it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "体を鍛えるのは良い時も悪い時もやり続けるみたいなものだよ。",
+    "en": "Getting fit is a through thick and thin kind of thing — you've gotta push even on bad days.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "睡眠スケジュールを最適化するのは、試行錯誤みたいなものだよ。",
+    "en": "Optimizing your sleep schedule is a trial and error kind of thing.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "完璧な姿勢は、規律みたいなものだよ、継続的な努力が必要だよ。",
+    "en": "Impeccable posture is a discipline kind of thing — it takes consistent effort.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "同僚と温かい関係を築くのは、長期戦みたいなものだよ。",
+    "en": "Building a warm-hearted relationship with colleagues is a long game kind of thing.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼女は明日体調が悪いかもしれない、その場合はミーティングを延期すべきだね。",
+    "en": "She might feel under the weather tomorrow, in which case we should postpone the meeting.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "終わる前に資金が尽きるかもしれない、その場合は新しい計画を立てる必要があるよ。",
+    "en": "The funds might run out before we finish, in which case we'll need to devise a new plan.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼が次のラウンドに進めないかもしれない、その場合はバックアップ候補が必要だよ。",
+    "en": "He might not advance to the next round, in which case we need a backup candidate.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "パスタが茹ですぎになってるかもしれない、その場合はお湯を切って冷水でさっと洗ってね。",
+    "en": "The pasta might be overcooked, in which case just drain and rinse it with cold water.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "講義は初心者には難しすぎるかもしれない、その場合は後でポイントを説明するよ。",
+    "en": "The lecture might be too tough for beginners, in which case I'll clarify the key points afterward.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "機材が脆いかもしれない、その場合は使用前に補強が必要だよ。",
+    "en": "The equipment might be flimsy, in which case we'll need to reinforce it before use.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼がプロジェクトを止めるかもしれない、その場合はみんなが方向転換できるよう準備しておくべきだよ。",
+    "en": "He might halt the project, in which case we should all be ready to pivot.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえ朝だるくても、15分だけでも勉強してみてよ。",
+    "en": "Even if you feel sluggish in the morning, try to hit the books for just 15 minutes.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえ資金が厳しくても、品質を妥協すべきじゃないよ。",
+    "en": "Even if the funds are tight, we should not cut corners on quality.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえ試みて失敗しても、その経験から何か価値あるものを得られるよ。",
+    "en": "Even if you attempt it and fail, you'll still gain something valuable from the experience.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえ今月お金がなくても、シンプルに楽しめる方法はあるよ。",
+    "en": "Even if you feel broke this month, you can still find a simple way to have fun.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえハイキングがきつくても、頂上からの眺めはいつも努力に値するよ。",
+    "en": "Even if the hike is tough, the view at the top is always worth the effort.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえ仕事後に疲れていても、外食せずちゃんとした食事を作るようにしてるよ。",
+    "en": "Even if I'm lethargic after work, I try to prepare a proper meal rather than ordering out.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえ彼がちょっと変わっていても、アイデアはしばしば驚くほど革新的だよ。",
+    "en": "Even if he's wacky, his ideas are often surprisingly innovative.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "たとえプレゼン前に緊張していても、深呼吸して自信を持って進めてよ。",
+    "en": "Even if you're on edge before a presentation, take a deep breath and proceed with confidence.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、今四半期の目標を達成するには生産量を上げる必要があるよ。",
+    "en": "Simply put, we need to boost our output if we want to hit the target this quarter.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、あなたがミスして、今それを修正しないといけないよ。",
+    "en": "Simply put, you dropped the ball on this, and now we need to fix it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、会社にはこのプロジェクトを続けるための資金が足りないよ。",
+    "en": "Simply put, the firm doesn't have enough capital to sustain this project.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、水分補給が大事で、毎日水をたくさん飲んでよ。",
+    "en": "Simply put, staying hydrated is crucial — drink plenty of aqua every day.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、彼女はチーム全体で一番献身的な人物だよ。",
+    "en": "Simply put, she's the most dedicated individual on the entire team.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、上達したいなら毎日努力しないといけないよ。",
+    "en": "Simply put, if you want to improve, you need to strive every single day.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、プレゼンが広すぎて、もっと焦点を絞る必要があったよ。",
+    "en": "Simply put, the presentation was too broad and needed more focus.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "簡単に言えば、チーズを自分で削るだけで料理の味がずっとおいしくなるよ。",
+    "en": "Simply put, grating your own cheese makes the dish taste so much better.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮に新入社員をメンターとして指導するとしたら、まず何に集中する？",
+    "en": "Let's say you had to mentor a new employee — what would you focus on first?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮に資金が無限にあるとしたら、どんな事業を始める？",
+    "en": "Let's say you had unlimited capital — what kind of enterprise would you start?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮にプロジェクトが完全に失敗したとしたら、次はどう動く？",
+    "en": "Let's say the project went down in flames — what would be your next move?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮に体調が悪いとしたら、それでも仕事に行く？それとも家で休む？",
+    "en": "Let's say you're feeling under the weather — do you still go to work or rest at home?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮にどんな冒険にでも飛び込めるとしたら、何を選ぶ？",
+    "en": "Let's say you could embark on any adventure you wanted — what would you choose?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮に毎日のルーティンをゼロから最適化するとしたら、何を残して何をやめる？",
+    "en": "Let's say you had to optimize your daily routine from scratch — what stays and what goes?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮に料理法が一つしか使えないとしたら、グリル、ソテー、それとも蒸し料理？",
+    "en": "Let's say you could only use one cooking method — would you grill, sauté, or steam everything?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "仮に突然誰かが夢の仕事を提供してきたとしたら、受ける？",
+    "en": "Let's say someone came out of the blue and offered you your dream job — would you take it?",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- この決断をする前にあなたの意見を聞くべきだよね。/ - 確かにそうだね、この分野でのあなたの経験は貴重だよ。",
+    "en": "- We should probably pick your brain before making this decision. / - That's true, your experience in this field is invaluable.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 自然の中を歩くと本当に気持ちが上がるよね。/ - 確かにそうだね、外を歩いた後はいつもすっきりするよ。",
+    "en": "- A stroll in nature can really lift your mood. / - That's true, I always feel so refreshed after a walk outside.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 他の人をメンタリングすると自分も成長できるよね。/ - 確かにそうだね、人に説明することで自分の知識も固まるよ。",
+    "en": "- Mentoring others can actually help you grow too. / - That's true, explaining things to others really solidifies your own knowledge.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 炒め物は食材を薄く切った方がずっといいよね。/ - 確かにそうだね、均一に火が通るしね。",
+    "en": "- It's so much better to slice ingredients thinly for a stir-fry. / - That's true, it helps them cook evenly.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 今手を抜くと後でもっと大きな問題になるよ。/ - 確かにそうだね、最初からちゃんとやれば時間の節約になるよ。",
+    "en": "- Cutting corners now will just cause bigger problems later. / - That's true, doing it right the first time saves so much time.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 温かい心を持っている人がいると職場がすごく変わるよね。/ - 確かにそうだね、大切にされてると感じると人はもっと頑張れるよ。",
+    "en": "- Being a warm-hearted person makes such a difference in the workplace. / - That's true, people are so much more motivated when they feel valued.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "- 語学学習は継続が全てだよね。/ - 確かにそうだね、毎日15分でも積み重なるとすごいよ。",
+    "en": "- It's all about consistency when it comes to language learning. / - That's true, even 15 minutes a day adds up over time.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "全部揚げるんじゃなくて、ヘルシーにするためにグリルしてみてよ。",
+    "en": "Instead of deep-frying everything, try grilling it for a healthier option.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "今夜は出前を頼むんじゃなくて、家で何か作るよ。",
+    "en": "Instead of ordering out, let me whisk up something at home tonight.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "ストレスを感じるんじゃなくて、落ち着いて問題を考えて解決策を見つけてよ。",
+    "en": "Instead of stressing out, try to ponder the problem calmly and find a solution.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "新しいものを買うんじゃなくて、家にあるものを活用してみてよ。",
+    "en": "Instead of buying new items, try to utilize what you already have at home.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "気を遣いすぎるんじゃなくて、素直に思ったことを言ってよ。",
+    "en": "Instead of walking on eggshells, just be genuine and say what you feel.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "日和見するんじゃなくて、決断して突き進んでよ。",
+    "en": "Instead of sitting on the fence, make a decisive call and go for it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "資金を一気に使うんじゃなくて、どう投資するか戦略を練ってよ。",
+    "en": "Instead of spending all your capital at once, try to strategize how you invest it.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "いきなり全部打ち明けるんじゃなくて、会話に徐々に慣れさせていこうよ。",
+    "en": "Instead of disclosing everything right away, let's ease into the conversation.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "何時間も蒸し焼きにするよりも、さっとソテーして軽い料理にする方がいいよ。",
+    "en": "Rather than braising the meat for hours, you can sauté it quickly for a lighter dish.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "イライラするよりも、それを学びの機会として捉えてみてよ。",
+    "en": "Rather than getting bent out of shape, try to see it as a learning opportunity.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "冷たい仲間よりも、温かい知り合いの方がいいよ。",
+    "en": "I'd rather have a warm acquaintance than a cold companion.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "自分の番を待つよりも、自分から動いて物事を起こしてよ。",
+    "en": "Rather than waiting for the ball to be in your court, go out and make things happen.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "新しい家電を買うよりも、まず古いものを修理してみてよ。",
+    "en": "Rather than purchasing a new appliance, try to fix your old one first.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "彼の変わったアイデアを否定するよりも、その背後にある創造性を見てみてよ。",
+    "en": "Rather than dismissing his wacky ideas, try to see the creativity behind them.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "前後逆さまにするよりも、一歩一歩計画を立てようよ。",
+    "en": "Rather than putting the cart before the horse, let's plan step by step.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "休みの日にだらだらするよりも、短い散歩に出かけてみてよ。",
+    "en": "Rather than being lethargic on your day off, try to go for a short stroll.",
+    "deck": "ATSU表現_Part1"
+  },
+  {
+    "jp": "プロジェクトを中断することにした。理由は資金が全く足りなかったから。",
+    "en": "I decided to halt the project, the reason being that we simply didn't have enough capital.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼女は在宅勤務を選んだ。理由は通勤があまりにも疲れるからだ。",
+    "en": "She chose to work from home, the reason being that commuting was too draining.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "グリルよりもブレイズを選んだ。理由は思っていたより肉が硬かったから。",
+    "en": "I opted to braise the chicken rather than grill it, the reason being that it was tougher than expected.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼は詳細を明かさなかった。理由はその情報がまだ機密だったから。",
+    "en": "He didn't disclose the details, the reason being that the information was still confidential.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "始める前にエプロンを取った。理由はいつも何かこぼしてしまうから。",
+    "en": "I grabbed my apron before starting, the reason being I always manage to spill something.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "平日の夜はほとんど外出しない。理由は勉強しないといけないから。",
+    "en": "I seldom go out on weeknights, the reason being I need to hit the books.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "新しい会社に変えた。理由は以前の会社が透明性に欠けていたから。",
+    "en": "We switched to a new firm, the reason being the previous one wasn't transparent enough.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "毎朝散歩を始めた。理由は仕事前に頭をすっきりさせたかったから。",
+    "en": "I started a stroll every morning, the reason being I wanted to clear my head before work.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この新しいアプローチを使うべきか、それとも旧来のものを使うべきか、まだ議論があるよ。",
+    "en": "There's still some debate as to whether we should utilize this new approach or stick with the old one.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "挫折の後、事業をどう進めるべきかに関してよく分からないよ。",
+    "en": "I'm not entirely sure as to how we should proceed with the enterprise after the setback.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "プロジェクトがなぜこんなに早く失敗したかに関して明確な答えがないよ。",
+    "en": "There's no clear answer as to why the project went down in flames so quickly.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "どんな職業を目指したいかに関して彼女には全く分からなかったよ。",
+    "en": "She had no idea as to what kind of vocation she wanted to pursue.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "ソースを20分煮るべきか30分煮るべきかに関して混乱してるよ。",
+    "en": "There's confusion as to whether we should simmer the sauce for 20 or 30 minutes.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "仲間と一緒にこの旅に出るか一人で出るかに関してまだ迷ってるよ。",
+    "en": "He's still on the fence as to whether to embark on this journey alone or with a companion.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "今のところキャリアをどう伸ばすかに関して明確な方向性がないよ。",
+    "en": "I have no clear direction as to how to advance in my career right now.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "私は早起きで夜明けに勉強する方だけど、一方でルームメイトは深夜に勉強するよ。",
+    "en": "I tend to be an early bird and hit the books at dawn, whereas my roommate studies late at night.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "魚をグリルすると燻製の風味が出るけど、一方で蒸すと柔らかくジューシーに仕上がるよ。",
+    "en": "Grilling the fish gives it a smoky flavor, whereas steaming keeps it tender and moist.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼女はとても活力があって元気だけど、一方で同僚は朝にだるそうにしているよ。",
+    "en": "She's incredibly vigorous and energetic, whereas her colleague tends to be sluggish in the mornings.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "都会の生活は便利だけど、一方で田舎の生活は平和で広々としているよ。",
+    "en": "Urban living is convenient, whereas living in the countryside is peaceful and expansive.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼はすぐに自分の考えをはっきり言えるけど、一方で私は話す前に長い間考える傾向があるよ。",
+    "en": "He readily articulates his ideas, whereas I tend to ponder for a long time before speaking.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "私はどちらかというのんびりした夜型だけど、一方で兄は朝一からやる気マンマンだよ。",
+    "en": "I'm more of a mellow evening person, whereas my brother is switched-on first thing in the morning.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "ブレイズは深みのある味を生み出すけど、一方でさっと炒めると野菜のシャキシャキ感が残るよ。",
+    "en": "Braising develops deeper flavors, whereas a quick stir-fry preserves the vegetables' crunch.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "私は地元のチャリティーに寄付したいけど、一方でパートナーは国際的な活動に力を入れているよ。",
+    "en": "I prefer to donate to local charities, whereas my partner focuses on international causes.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この新しいダイエットを試すべきかどうか分からないよ、かなり極端に見えるから。",
+    "en": "I'm not sure whether or not I should attempt this new diet — it seems pretty extreme.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "たとえそれについて気乗りしなくても、全力を尽くさないといけないよ。",
+    "en": "Whether or not you feel stoked about it, you still need to give it your best shot.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "より多くの資金を消耗する前にプロジェクトを止めるべきかどうか、決めないといけないよ。",
+    "en": "I need to figure out whether or not to halt the project before it drains more capital.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "旅に仲間がいてもいなくても、その体験は忘れられないものになるよ。",
+    "en": "Whether or not you have a companion on the trip, the experience will be unforgettable.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この新しいキャリアパスに踏み出すべきかどうか、まだ考えているよ。",
+    "en": "I'm still contemplating whether or not to embark on this new career path.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "お金がかかるかどうかに関わらず、このイベントには全力を尽くすべきだと思うよ。",
+    "en": "Whether or not it breaks the bank, I think we should go the whole nine yards for this event.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "金曜日までに資金移転を承認するかどうか決める必要があるよ。",
+    "en": "We need to decide whether or not to authorize the transfer of funds by Friday.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "スケジュールがタイトかどうかに関わらず、合意した通りに計画を進めるよ。",
+    "en": "Whether or not the schedule is tight, I'll proceed with the plan as agreed.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "このスキンケア商品使ってたんだよね、なんていうんだっけ...あ、トナー！すごくよかったよ。",
+    "en": "I've been using this skincare product — what's it called... ah, toner! It's been great.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あの料理技術試したことある？なんていうんだっけ...ブレイズ？お肉がすごく柔らかくなるんだよ。",
+    "en": "Have you tried that cooking technique — what's it called... braising? It makes meat so tender.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "面白い慣用句を見つけたんだよ、なんていうんだっけ...「once in a blue moon」。すごく便利！",
+    "en": "I came across this fascinating idiom — what's it called... 'once in a blue moon'. So useful!",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "友達がキッチンでこのガジェットを使っていて、なんていうんだっけ...お玉？彼はこれなしじゃダメって言ってるよ。",
+    "en": "My friend uses this gadget in the kitchen — what's it called... a ladle? He swears by it.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "都市の生活に関するすごいドキュメンタリーがあって、なんていうんだっけ...タイトルがいつも思い出せないよ。",
+    "en": "There's this great documentary about urban life — what's it called... I keep forgetting the title.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "新しいトレーニングルーティンを試してるんだよね、なんていうんだっけ...ジムで実際に見たやつ。",
+    "en": "I've been trying this new workout routine — what's it called... I saw it IRL at the gym.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼はこのキッチンツールを使ってるんだよね、なんていうんだっけ...泡立て器？本当にふわふわの卵を作るんだよ。",
+    "en": "He uses this sharp kitchen tool — what's it called... a whisk? He makes the fluffiest eggs.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼女は毎朝このハーブの飲み物を飲んでるんだよね、なんていうんだっけ...名前がいつも思い出せないよ。",
+    "en": "She drinks this herbal beverage every morning — what's it called... I can never remember the name.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "毎晩勉強しても情報が頭に残らないなら意味あるの？",
+    "en": "What's the point of hitting the books every night if you're not retaining any of the information?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "毎日揚げ物を食べるなら、ジムに行く意味あるの？",
+    "en": "What's the point of going to the gym if you're going to eat deep-fried food every day?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "機能の半分もほとんど使わないなら、スタイリッシュなスマホを持つ意味あるの？",
+    "en": "What's the point of having a sleek phone if you barely utilize half its features?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "賢く投資しないなら、資金を積み上げる意味あるの？",
+    "en": "What's the point of accumulating capital if you never invest it wisely?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "後で大きな問題を起こすことになるのに、今手を抜く意味あるの？",
+    "en": "What's the point of cutting corners now when it'll just create bigger problems later?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "みんながどんよりするだけなのに、友達の楽しみに水を差す意味あるの？",
+    "en": "What's the point of raining on your friend's parade when it just makes everyone feel down?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "メモを取らないなら講義に出席する意味あるの？",
+    "en": "What's the point of attending the lecture if you're not going to take any notes?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "毎月壊れる古くて脆い家電を持ち続ける意味あるの？",
+    "en": "What's the point of keeping a flimsy old appliance that breaks down every month?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- 全面展開する前にパイロット運用を試みるべきだよ。/ - 確かにそうだね、早い段階で問題を見つけられるよ。",
+    "en": "- We should probably attempt a pilot run before rolling it out fully. / - That's a fair point, it'll help us identify any flaws early on.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- 温かい心のメンターがいると新入社員には本当に違うよね。/ - 確かにそうだね、自分のメンターがいなかったらもっと苦労してたよ。",
+    "en": "- Having a warm-hearted mentor can really make a difference for new employees. / - That's a fair point, I'd have struggled a lot more without mine.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- シャツを長持ちさせたいなら柔軟剤を使うべきだよ。/ - 確かにそうだね、その工程をいつも忘れちゃうよ。",
+    "en": "- We should utilize the fabric softener if we want the shirts to last longer. / - That's a fair point, I always forget that step.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- 本題に入る前にアイスブレイクをするとみんなリラックスするよね。/ - 確かにそうだね、その後の場の雰囲気がいつも変わるよ。",
+    "en": "- Breaking the ice before the main discussion makes everyone more comfortable. / - That's a fair point, the energy in the room always shifts after that.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- 製品が完成する前にマーケティングをするのは本末転倒だよ。/ - 確かにそうだね、まず製品を完成させるべきだよ。",
+    "en": "- We're putting the cart before the horse by marketing before the product is finished. / - That's a fair point, we should finalize the product first.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- 運動は強度よりも継続性の方が大事だよ。/ - 確かにそうだね、週1回激しくやってもあまり効果がないよね。",
+    "en": "- It's more about consistency than intensity when it comes to exercise. / - That's a fair point, going hard once a week doesn't really cut it.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- チーズは自分で削ると確かに出来合いより味がよくなるよね。/ - 確かにそうだね、違いはかなり分かりやすいよ。",
+    "en": "- Grating fresh cheese yourself really does taste better than the pre-packaged stuff. / - That's a fair point, the difference is pretty noticeable.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "- 急いでミスするよりも、ゆっくり正確に進む方がいいよ。/ - 確かにそうだね、速さが全てじゃないよ。",
+    "en": "- It's better to advance slowly and get it right than rush and make mistakes. / - That's a fair point, speed isn't everything.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "ゼロから事業を立ち上げた起業家についての面白い話を見つけたよ。",
+    "en": "I came across this fascinating narrative about an entrepreneur who built an enterprise from scratch.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "睡眠スケジュールを最適化する方法についてのためになるポッドキャストを見つけたよ。",
+    "en": "I came across a really informative podcast about how to optimize your sleep schedule.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "大都市のファーマーズマーケットで昔の知人に出会ったよ、なんという偶然！",
+    "en": "I came across an old acquaintance at the metropolis farmer's market — what a coincidence!",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "オンラインを見てたらすごい曲を見つけて、ずっと聴いてるよ。",
+    "en": "I came across an amazing tune while browsing online and I can't stop listening to it.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "鶏肉を一晩マリネすると一番おいしいというレシピを見つけたよ。",
+    "en": "I came across a recipe that says to marinate the chicken overnight for the best flavor.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "昨日フードフェスでこの料理技術の実演を実際に見たよ。",
+    "en": "I came across an IRL demonstration of this cooking technique at a food festival yesterday.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "偶然世界的に有名な料理を作ってしまったシェフについての面白いエピソードを見つけたよ。",
+    "en": "I came across this fascinating anecdote about a chef who accidentally created a world-famous dish.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "資金についてあなたが言ったことに戻ると、進める前にもっと資金を確保する必要があると思う。",
+    "en": "Going back to what you said about funding — I think we need to acquire more capital before we proceed.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "都市開発の話題に戻ると、大都市は拡大しすぎていると思う？",
+    "en": "Going back to the topic of urban development, do you think the metropolis is expanding too quickly?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが先ほど話したエピソードに戻ると、その話のメンターは本当に鋭い人だと思う。",
+    "en": "Going back to your earlier anecdote, I think the mentor in your story was really switched-on.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "レシピの話に戻ると、ソースにはお玉を使ったの、泡立て器を使ったの？",
+    "en": "Going back to the recipe — did you end up using a ladle or a whisk for the sauce?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "元のポイントに戻ると、少しの資金を節約するために手を抜くべきじゃないよ。",
+    "en": "Going back to the original point, we shouldn't cut corners just to save a bit of capital.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "アイスブレイクについてあなたが言ったことに戻ると、具体的なテクニックはある？",
+    "en": "Going back to what you mentioned about breaking the ice, do you have any specific techniques?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "データに戻ると、もっと詳しく見れば明確なパターンを見分けることができると思う。",
+    "en": "Going back to the data, I think we can discern a clear pattern if we look more closely.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、別のアプローチを試して、より良い結果が生まれるか見てみるべきだと思う。",
+    "en": "In this case, I think we should attempt a different approach and see if it generates better results.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、弱火でゆっくり肉をブレイズするのが最善の方法だよ。",
+    "en": "In this case, the best option is to braise the meat slowly over low heat.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、遠回しに言うよりも率直に言う方がいいと思う。",
+    "en": "In this case, I'd say it's better to be straightforward rather than beat around the bush.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、みんなが同じ認識を持てるように議論を進める方がいいと思う。",
+    "en": "In this case, we should probably facilitate a discussion to make sure everyone's on the same page.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、明らかに次はあなたの番だよ、次の動きをしないといけない。",
+    "en": "In this case, the ball is clearly in your court — you need to make the next move.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、よく切れるナイフで野菜を薄く切ると料理が格段によくなるよ。",
+    "en": "In this case, using a sharp knife to slice the vegetables thinly will really improve the dish.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、無理に進めるよりも計画を撤回して一からやり直す方がいいかもしれないよ。",
+    "en": "In this case, we might need to withdraw the plan and start fresh rather than force it.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "この場合は、新規顧客を追うよりも、ブランドへの愛着を大切にする方が重要だよ。",
+    "en": "In this case, it's more about preserving the fondness people have for the brand than chasing new customers.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "素晴らしい料理は高価な道具よりも、忍耐と技術の方が大事だよ。",
+    "en": "Great cooking is more about patience and technique than it is about fancy equipment.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "上手に炒め物をするのは、食材の選択よりも火加減のコントロールの方が大事だよ。",
+    "en": "Learning to stir-fry well is more about heat control than the ingredients you choose.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "ビジネスの成功は、多額の予算よりも柔軟で鋭い感覚の方が大事だよ。",
+    "en": "Success in business is more about being adaptable and keen than having a massive budget.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "良いメンター関係は厳しい指導よりも、信頼と愛情の方が大事だよ。",
+    "en": "A good mentor relationship is more about trust and affection than strict instruction.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "健康を維持するのは、たまにジムに行くことよりも毎日の習慣の方が大事だよ。",
+    "en": "Staying fit is more about your daily habits than hitting the gym once in a blue moon.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "本当に誰かとつながることは、機知に富んでいることよりも誠実であることの方が大事だよ。",
+    "en": "Truly connecting with someone is more about being genuine than being witty.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "良いリーダーであることは、常に主張することよりも温かく決断力があることの方が大事だよ。",
+    "en": "Being a good leader is more about being warm-hearted and decisive than being assertive all the time.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "このインターンシップはたくさんの報酬を得ることよりも、人脈を築く方が大事だよ。",
+    "en": "This internship is more about building your network than gaining a hefty paycheck.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "友情のために、過去のことは蒸し返さずに前に進もうよ。",
+    "en": "For the sake of our friendship, let's let sleeping dogs lie and move on.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "明確にするために、プロセスの主なステップをもう一度詳しく説明するね。",
+    "en": "For the sake of clarity, let me expound the key steps of the process one more time.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "事業のために、今四半期はより多くの資金を確保する必要があるよ。",
+    "en": "For the sake of the enterprise, we need to acquire more capital this quarter.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "健康のために、全部揚げるんじゃなくて煮込んで料理してみてよ。",
+    "en": "For the sake of your health, try to simmer your meals rather than deep-frying everything.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "チームのために、前進の助けになるなら単調な仕事を引き受けるよ。",
+    "en": "For the sake of the team, I'm willing to take on a monotonous task if it helps us move forward.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "子どものために、親は積極的に活動して良い手本を示すべきだよ。",
+    "en": "For the sake of the offspring, parents should set a good example by staying active.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "コミュニティのために、彼は資金の一部を地域活動のために寄付することを選んだよ。",
+    "en": "For the sake of the community, he chose to donate a portion of his capital to local causes.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "進歩のために、議論をやめて行動を始めようよ。",
+    "en": "For the sake of progress, let's cease the debate and start taking action.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、この試験に合格したいなら、もっとコツコツ勉強すべきだよ。",
+    "en": "Like you said, we should probably hit the books more consistently if we want to pass this exam.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、激しいトレーニングよりも毎日の散歩の方が大事だよ。",
+    "en": "Like you said, it's more about the daily stroll than any intense workout regime.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、こういう大きな決断をする前には徹底的に調べないといけないよ。",
+    "en": "Like you said, we need to leave no stone unturned before making this kind of major decision.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、大きなプロジェクトを終えた後に思いっきり楽しむのは当然だよ。",
+    "en": "Like you said, painting the town red after finishing a big project is totally deserved.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、信頼できる仲間がいるとどんな旅もずっとよくなるよ。",
+    "en": "Like you said, having a reliable companion makes any journey so much better.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、最後にハーブをかけると料理がずっとおいしくなるよ。",
+    "en": "Like you said, the recipe turns out much better when you sprinkle the herbs at the very end.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "あなたが言ったように、最初にアイスブレイクをすることが全てで、それさえできれば自然と流れるよ。",
+    "en": "Like you said, it's all about breaking the ice at the start — once that's done it flows naturally.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、平日のランチに揚げ物はちょっと重すぎる気がするよ。",
+    "en": "This might be just me, but I find deep-fried food way too heavy for a weekday lunch.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、会議の前半でメンターが矛盾したことを言っていた気がするよ。",
+    "en": "This might be just me, but I think the mentor said something contradictory earlier in the meeting.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、事業が本末転倒なことをしている気がするよ。",
+    "en": "This might be just me, but I feel like the enterprise is putting the cart before the horse.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、イベントで流れていた曲が少し単調だった気がするよ。",
+    "en": "This might be just me, but the tune they played at the event was kind of monotonous.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、プレゼン全体に鮮明なナラティブが欠けていた気がするよ。",
+    "en": "This might be just me, but I think the entire presentation lacked a vivid narrative.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、そのローションは毎日使うには少し香りが強すぎる気がするよ。",
+    "en": "This might be just me, but I feel like the lotion smells a little too strong for daily use.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、このプロジェクトには全く違う角度で挑むべきだと思うよ。",
+    "en": "This might be just me, but I think we should attempt a completely different angle on this project.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "これは私だけかもしれないけど、昼食にたくさん食べると午後にだるくなるんだよね。",
+    "en": "This might be just me, but I always feel sluggish after eating a hefty meal at lunchtime.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "正直に言って、要点を言ってくれない？今はあまり時間がないんだよね。",
+    "en": "TBH, can you just get to the point? I don't have much time right now.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "要点を言うと、このプロジェクトを即座に中断して再評価する必要があるよ。",
+    "en": "Let me get to the point — we need to halt this project immediately and reassess.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼女はいつも要点を言うまでに時間がかかりすぎて、全てを説明しようとして無理してる気がするよ。",
+    "en": "She always takes forever to get to the point — I feel like she's burning the candle at both ends trying to explain everything.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼はようやく要点を言って、自分の決断の本当の理由を打ち明けたよ。",
+    "en": "He finally got to the point and disclosed the real reason behind his decision.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "私の意見では、優れたコミュニケーターは説明しすぎずに的確なタイミングで要点を言えるものだよ。",
+    "en": "IMO, good communicators know exactly when to get to the point without over-explaining.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼は深呼吸して、ようやく要点を言い、自分の本当の懸念をはっきり述べたよ。",
+    "en": "He took a deep breath and finally got to the point, stating his genuine concerns firmly.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "要点を言ってくれない？ここでの核心的な問題を理解しようとしているんだよね。",
+    "en": "Could you please get to the point? We're all trying to comprehend the core issue here.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "最終的に蒸すのではなく魚をグリルすることになって、ずっとおいしくなったよ。",
+    "en": "I ended up grilling the fish instead of steaming it, and it turned out way better.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "最終的に当初の予定よりずっと多くの資金をリノベーションに使うことになったよ。",
+    "en": "We ended up spending way more capital on the renovation than we had originally planned.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "結局パーティーで誰もやらないから、私がアイスブレイクをすることになったよ。",
+    "en": "I ended up being the one to break the ice at the party since nobody else would.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "最終的に彼女は東南アジアへの一人旅に踏み出すことになって、一瞬一瞬を楽しんだよ。",
+    "en": "She ended up embarking on a solo trip to Southeast Asia, and she loved every second.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "最終的に誰も予期しなかった、静かに場を救う仲間になることになったよ。",
+    "en": "I ended up being the companion nobody expected — the quiet one who saves the day.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "試験が思っていたより難しかったから、最終的に夜中の2時まで勉強することになったよ。",
+    "en": "We ended up hitting the books until 2 am because the exam was tougher than expected.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "先週ずっと無理をした結果、今完全に消耗してしまったよ。",
+    "en": "I ended up burning the candle at both ends last week and now I'm completely drained.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "最終的に彼は収入のほとんどをチャリティーに寄付することになった、本当に温かい心の持ち主だよ。",
+    "en": "He ended up donating most of his earnings to charity — what a warm-hearted individual.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "そのプレゼンではミスしたけど、仕方がない、次はもっとうまくやるよ。",
+    "en": "I dropped the ball on that presentation, but it is what it is — I'll do better next time.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "プロジェクトは失敗したけど、仕方がない、何を改善できるか考えよう。",
+    "en": "We went down in flames on the project, but it is what it is — let's figure out what we can improve.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "資金が間に合わなかったけど、仕方がない、あるもので何とかしていくよ。",
+    "en": "The funds didn't come through in time, but it is what it is — we'll manage with what we have.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "炒め物が少し味気なかったけど、仕方がない、次回はもっと調味料を加えるよ。",
+    "en": "The stir-fry came out a bit too bland, but it is what it is — I'll add more seasoning next time.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "平日はほとんど寝坊できないけど、仕方がない、自分が選んだ仕事だから。",
+    "en": "I seldom get to sleep in on weekdays, but it is what it is — that's just the vocation I chose.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "大都市は生活費が高いけど、仕方がない、機会があるから価値があるよ。",
+    "en": "The metropolis is expensive to live in, but it is what it is — the opportunity is worth it.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "正直、結果が残念だけど、仕方がない、前に進もう。",
+    "en": "NGL, I'm bummed about how it turned out, but it is what it is — moving on.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "スケジュールがタイトだけど、仕方がない、進めてベストを尽くすしかないよ。",
+    "en": "The schedule is tight, but it is what it is — we just have to proceed and do our best.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、毎日のルーティンを育てている人の方が生産的な傾向があるよ。",
+    "en": "In general, people who cultivate a daily routine tend to be more productive.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、ブレイズは硬い部位の肉に適した技術だよ。",
+    "en": "In general, braising is a great technique for tougher cuts of meat.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、温かい心の人の方が本当の友情を引き寄せる傾向があるよ。",
+    "en": "In general, warm-hearted individuals tend to attract more genuine friendships.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、大都市はより多くの機会を提供するけど、生活がよりストレスになりやすいよ。",
+    "en": "In general, the metropolis offers more opportunities but a more stressful lifestyle.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、認められ評価されていると感じると人はより良いパフォーマンスを発揮すると思う。",
+    "en": "In general, I'd say people perform better when they feel acknowledged and valued.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、生産性のためには蛍光灯よりも自然光を活用する方がいいよ。",
+    "en": "In general, it's better to utilize natural light rather than fluorescent lighting for productivity.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、スープは強火で急いで作るよりもゆっくり煮込む方が賢明だよ。",
+    "en": "In general, it's smarter to simmer a soup slowly than to rush it at high heat.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "一般的に、ゼロから事業を立ち上げるには精力的な努力と鋭いタイミングが必要だよ。",
+    "en": "In general, building an enterprise from scratch demands both vigorous effort and keen timing.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "今日は全く勉強する気が起きないよ、完全に消耗してる。",
+    "en": "I don't feel like hitting the books at all today — I'm completely drained.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "昨夜は少しでも眠れた？それとも夜通し無理をしてたの？",
+    "en": "Did you sleep at all last night or did you end up burning the candle at both ends?",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼は情報を全く明かさなかった、ずっと黙っていただけだよ。",
+    "en": "He didn't disclose the information at all — he just stayed silent the whole time.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "今日は全くだるくないよ、活力があって何でも挑戦できる気分！",
+    "en": "I'm not sluggish at all today — I feel vibrant and ready to tackle anything!",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "彼がプロジェクトを終了すると発表しても、彼女は全く動じていなかったよ。",
+    "en": "She didn't seem bothered at all when he announced he was ceasing the project.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "今月は全く金欠じゃないよ、資金をうまく管理してきたから。",
+    "en": "I'm not broke at all this month — I've been smartly managing my capital.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "言っておくけど、彼はそのフィードバックを全く気に入らなかったよ、かなりイライラしてたよ。",
+    "en": "JSYK, he didn't appreciate the feedback at all — he got pretty bent out of shape.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "新しい会社は全く柔軟じゃないよ、成長したければ適応する必要があるよ。",
+    "en": "The new firm isn't flexible at all — they need to adapt if they want to grow.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、手遅れになる前に別の戦略を試してみるべきだね。",
+    "en": "If that's the case, we should probably attempt a different strategy before it's too late.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、喜んでその仕事を引き受けて最後までやり遂げるよ。",
+    "en": "If that's the case, I'll gladly take on the task and see it through to the end.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、自分たちが主導権を持ってるよ、何かを起こそうよ。",
+    "en": "If that's the case, the ball's in our court — let's make something happen.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、プロジェクトを中断して資金を再評価する方が賢明かもしれないよ。",
+    "en": "If that's the case, I think it might be wise to halt the project and reassess the funds.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、ローンチ前にいくつかの追加機能を組み込んだ方がいいかもしれないよ。",
+    "en": "If that's the case, we might want to sprinkle in some extra features before launch.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、混乱がないようにプロセスを一歩一歩詳しく説明するよ。",
+    "en": "If that's the case, let me elucidate the process step by step so there's no confusion.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "もしそうなら、現在のアプローチをやめて新しい計画を立てるべきだね。",
+    "en": "If that's the case, we should probably cease the current approach and devise a new plan.",
+    "deck": "ATSU表現_Part2"
+  },
+  {
+    "jp": "私の意見では、街の一番活気ある場所は都会の夜市だよ、行ってみてよ。",
+    "en": "I'd say the most vibrant part of the city is the urban night market — you should visit it.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の感覚では、新しい言語のニュアンスを本当に理解するには1年くらいかかると思う。",
+    "en": "I'd say it takes about a year or so to truly grasp the nuances of a new language.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の意見では、事業全体がかなり確かな土台の上に成り立っていると思う。",
+    "en": "I'd say the whole enterprise is built on a pretty solid foundation now.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の意見では、まずバターでにんにくをソテーすると料理全体の味がずっとよくなると思う。",
+    "en": "I'd say sautéing the garlic in butter first makes the whole dish taste way better.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の意見では、あなたは無理しすぎだと思うよ、燃え尽きる前に休んでよ。",
+    "en": "I'd say you've been burning the candle at both ends — take a break before you burn out.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の意見では、彼は私が一緒に仕事した中で一番鋭い人の一人だと思う。",
+    "en": "I'd say he's one of the most switched-on individuals I've ever worked with.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の意見では、おいしい炒め物の秘訣は具を入れる前に中華鍋を十分に加熱することだよ。",
+    "en": "I'd say the key to a great stir-fry is having your wok boiling hot before you add anything.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私の意見では、正直なところ、その新しいソフトウェアのアップグレードは投資に値するよ。",
+    "en": "I'd say TBH, the new software upgrade is worth every yen.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "より健康的な毎日のルーティンを育てる過程にあるよ。",
+    "en": "I'm in the process of trying to cultivate a healthier daily routine.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "事業を拡大するために必要な資金を確保する過程にあるよ。",
+    "en": "We're in the process of acquiring the capital needed to expand the enterprise.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼女は味気ない家を活気ある生活空間に変えていく過程にあるよ。",
+    "en": "She's in the process of transforming her bland home into a vibrant living space.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼はプロのシェフのように野菜を切る技術を学んでいる過程にあるよ。",
+    "en": "He's in the process of learning to slice and chop vegetables like a professional chef.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "仕事で次のレベルに上がれるようにスキルをアップグレードしている過程にあるよ。",
+    "en": "I'm in the process of upgrading my skills so I can advance to the next level at work.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "会社は今四半期の売り上げを伸ばすための新しい戦略を立てている過程にあるよ。",
+    "en": "The company is in the process of devising a new strategy to boost sales this quarter.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "新しい採用者をメンターとして指導するのに適した人物を見つけている過程にあるよ。",
+    "en": "We're in the process of identifying the right individual to mentor the new recruits.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "会社創業10周年を祝って思いっきり楽しんでいる最中だよ。",
+    "en": "They're in the process of painting the town red to celebrate the firm's 10th anniversary.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "勉強というよりも、むしろ好きなドラマを見ながら勉強しているみたいな感じだよ。",
+    "en": "It's not really studying — it's more like hitting the books while watching your favorite show.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "会社というよりも、むしろ数人の親しい仲間が運営する小さな事業みたいな感じだよ。",
+    "en": "It's not really a firm — it's more like a small enterprise run by a few close companions.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "ブレイズというよりも、むしろ多くの忍耐を持ってゆっくり煮込む感じだよ。",
+    "en": "It's not really braising — it's more like a slow simmer with a lot of patience.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "散歩というよりも、むしろ近所をのんびり歩く感じだよ。",
+    "en": "It's not really a stroll — it's more like a leisurely march through the neighborhood.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "疲れというよりも、むしろがっつり食べた後のだるい感じだよ。",
+    "en": "It's not really exhaustion — it's more like that sluggish feeling after a hefty meal.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "レシピというよりも、むしろ進めながら調整できる大まかなガイドみたいな感じだよ。",
+    "en": "It's not really a recipe — it's more like a rough guide that you can adapt as you go.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "事業というよりも、むしろ徐々に仕事になっていった情熱プロジェクトみたいな感じだよ。",
+    "en": "It's not really an enterprise — it's more like a passion project that gradually became a vocation.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "知り合いというよりも、むしろ良い時も悪い時も共にしてきた仲間みたいな感じだよ。",
+    "en": "It's not really an acquaintance — it's more like a companion I've known through thick and thin.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、昇進を求める前にもっとスキルを習得するのは完全に理にかなっているよ。",
+    "en": "From that point of view, it makes total sense to acquire more skills before seeking a promotion.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、ツアーバスよりも新しい街を歩いて巡る方が、街の魅力をずっとよく知れるよ。",
+    "en": "From that point of view, a stroll through a new city can reveal its soul far better than a tour bus.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、地元の事業に寄付する方がコミュニティへの影響がずっと大きいよ。",
+    "en": "From that point of view, donating to local enterprises has a much bigger community impact.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、スタイリッシュな作業スペースが生産性を向上させることは確かにあるよ。",
+    "en": "From that point of view, having a sleek workspace really can boost your productivity.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、準備に全力を尽くすことは決して無駄にならないよ。",
+    "en": "From that point of view, the whole nine yards approach to preparation is never a waste.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、温かい心の持ち主であることが一番の競争優位だよ。",
+    "en": "From that point of view, being a warm-hearted individual is your biggest competitive advantage.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その観点から見ると、上手なソテーをマスターすることで料理の世界が大きく広がるよ。",
+    "en": "From that point of view, mastering the art of a good sauté opens up a whole world of cooking.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "都会のマーケット近くの新しいレストランでランチしようか、それが都合よければ。",
+    "en": "We could grab lunch at that new restaurant near the urban market, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "午前9時ではなく10時にミーティングを始めることもできるよ、それが都合よければ。",
+    "en": "I can commence the meeting at 10 am instead of 9 am, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "今週末にブレイズビーフ料理を試してみようか、それが都合よければ。",
+    "en": "We could attempt the braised beef dish this weekend, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "その古いまな板を必要な人に寄付しようか、それが都合よければ。",
+    "en": "I'll donate the old cutting board to someone who needs it, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "できるだけ早く資金を送金できるよ、それが都合よければ。",
+    "en": "I can transfer the funds ASAP, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "まずちょっとゲームでアイスブレイクするのはどう、それが都合よければ。",
+    "en": "We could break the ice by playing a quick game first, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "新しい採用者を火曜の午後にメンタリングできるよ、それが都合よければ。",
+    "en": "I can mentor the new recruit on Tuesday afternoons, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "戻る前に都市部を散歩しようか、それが都合よければ。",
+    "en": "We could stroll through the urban area before heading back, if that works for you.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、こんなに勉強しながらどうやってそんなに活気ある社会生活を維持しているの？",
+    "en": "Just out of curiosity, how do you manage to maintain such a vibrant social life while hitting the books so hard?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、何がこの事業をゼロから始めることを決めさせたの？",
+    "en": "Just out of curiosity, what made you decide to embark on this enterprise from scratch?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、野菜はソテーする方が好き？それとも炒め物？",
+    "en": "Just out of curiosity, do you prefer to sauté or stir-fry your vegetables?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、どうやってそんなに面白い知り合いと出会ったの？",
+    "en": "Just out of curiosity, how did you come across such a fascinating acquaintance?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、長い1日の後もそんなに鋭くて意欲的でいられるのはどうして？",
+    "en": "Just out of curiosity, how do you stay so keen and switched-on even after a long day?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、新しい都市開発が地域経済を活性化させると思う？",
+    "en": "Just out of curiosity, do you think the new urban development will boost the local economy?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、鶏肉をどのくらいマリネしたの？すごくおいしい！",
+    "en": "Just out of curiosity, how long did you marinate the chicken for? It tastes incredible!",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "単なる好奇心から、大都市と小さな街での仕事についてどう思う？",
+    "en": "Just out of curiosity, what's your POV on working in a metropolis versus a smaller town?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、最近新しい曲を見つけた？フレッシュなものを探してるんだよね。",
+    "en": "Off-topic, but did you come across any new tunes lately? I'm looking for something fresh.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、ブレイズの技術を完璧にしたシェフについての面白いエピソードを見つけたよ。",
+    "en": "Off-topic, but I came across a fascinating anecdote about a chef who perfected the art of braising.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、正直、今週末のイベントがすごく楽しみだよ。",
+    "en": "Off-topic, but NGL, I'm pretty stoked about the upcoming event this weekend.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、ここ1年で都市部がどれだけ活気づいたか気づいた？",
+    "en": "Off-topic, but have you noticed how vibrant the urban area has become in the past year?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、新しい抱き枕を買ったら睡眠の質がめちゃくちゃよくなったよ。",
+    "en": "Off-topic, but I just grabbed a new body pillow and my sleep quality has improved massively.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、ところで、その大都市の新しいレストランには結局行ったの？",
+    "en": "Off-topic, but BTW, did you end up going to that new restaurant in the metropolis?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、ちゃんとマッシュポテトを作る方法を習得している過程にあるんだよね、見た目よりも難しいよ！",
+    "en": "Off-topic, but I've been in the process of learning to mash potatoes properly — harder than it looks!",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "話は変わりますが、外国の大都市のストリートフードの本当に面白い写真を見たよ。",
+    "en": "Off-topic, but I saw the most fascinating snapshot of street food in a foreign metropolis.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、彼女は新しい職業に踏み出して古い仕事を辞めることにした。",
+    "en": "Out of the blue, she decided to embark on a new vocation and quit her old job.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、彼は市内のストリートマーケットで長い間会っていなかった仲間に偶然会ったよ。",
+    "en": "Out of the blue, he came across his long-lost companion at a street market downtown.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、事業が全てを変える大きな助成金を受け取ったよ。",
+    "en": "Out of the blue, the enterprise received a massive grant that changed everything.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、彼は初期のキャリアからの面白いエピソードを話して、みんなを絶句させたよ。",
+    "en": "Out of the blue, he disclosed a fascinating anecdote from his early career that left everyone speechless.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、彼女がオンラインに投稿した鮮明な写真が完全にバイラルになったよ。",
+    "en": "Out of the blue, the vivid snapshot she posted online went completely viral.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、会社は全ての業務を中止して戦略を再評価することを決めたよ。",
+    "en": "Out of the blue, the firm decided to halt all operations and reassess their strategy.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、彼女はかつて一度だけ訪れた街への深い愛着を感じたよ。",
+    "en": "Out of the blue, she felt a deep fondness for a city she had only visited once before.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "突然、昔のメンターから電話があって、とても鋭いアドバイスをもらったよ。",
+    "en": "Out of the blue, my old mentor called me and offered some really sharp advice.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、チームの士気を上げる3つの方法が思い浮かぶよ。",
+    "en": "Off the top of my head, I can think of three ways to boost the team's morale.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、豚のブレイズ料理は作るのに2時間くらいかかると思う。",
+    "en": "Off the top of my head, I'd say the braised pork dish takes about two hours to make.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままでは正確な金額は言えないけど、かなり大きな額だよ。",
+    "en": "I can't give you the exact funds amount off the top of my head, but it's pretty hefty.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、この食材を活用する5つの方法が思い浮かぶよ。",
+    "en": "Off the top of my head, I can think of five different ways to utilize this ingredient.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、この大都市で一番訪れる価値のある活気ある地区は東側だと思う。",
+    "en": "Off the top of my head, I'd say the most vibrant neighborhood to visit in this metropolis is the east side.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、おいしい炒め物の秘訣は高温で素早く動くことだよ。",
+    "en": "Off the top of my head, the key to a good stir-fry is high heat and swift movements.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、その店には7種類くらいのまな板があると思う。",
+    "en": "Off the top of my head, I'd say there are about seven types of cutting boards available in that store.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いつくままに、「heart」を使った慣用句が3つ思い浮かぶよ、面白いよね？",
+    "en": "Off the top of my head, I can think of three idioms that use the word 'heart' — aren't they fascinating?",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "大都市に住むのは好きだけど、同時に静かな田舎が恋しいよ。",
+    "en": "I love living in the metropolis, but at the same time I miss the peaceful countryside.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "ブレイズには多くの忍耐が必要だけど、同時に結果は信じられないほど満足のいくものだよ。",
+    "en": "Braising takes a lot of patience, but at the same time the results are incredibly rewarding.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼女はとても鋭くて聡明だけど、同時に私が知る中で最も温かい心の人の一人だよ。",
+    "en": "She's incredibly switched-on and sharp, but at the same time she's one of the most warm-hearted people I know.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "新しいことに挑戦するのはワクワクするけど、同時にとても緊張するものだよ。",
+    "en": "Attempting something new is exciting, but at the same time it can be deeply nerve-wracking.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "もっとチャリティーに寄付したいけど、同時に自分の資金を確保しないといけないよ。",
+    "en": "I want to donate more to charity, but at the same time I need to ensure my own capital is secure.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "炒め物はとてもおいしいけど、同時に私には少し脂っこすぎるよ。",
+    "en": "The stir-fry tastes amazing, but at the same time it's a little too greasy for my taste.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "パーティーの活気がよかったけど、同時に終わる頃には完全に疲れ果てていたよ。",
+    "en": "I love how vibrant the party was, but at the same time I was absolutely exhausted by the end.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼は着実に進歩しているけど、同時にまだ改善すべき点がたくさんあるよ。",
+    "en": "He's making solid progress, but at the same time there's still a lot left to improve.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "揚げ物は食べ物をすごくカリカリにしてくれるけど、その反面、健康にはあまりよくないよ。",
+    "en": "Deep-frying makes food extra crispy, but the flip side of it is that it's not great for your health.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "大都市に住むとキャリアの機会が豊富だけど、その反面、生活費がかかるよ。",
+    "en": "Living in a metropolis offers great career opportunities, but the flip side of it is the hefty cost of living.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "鋭くて意欲的なメンターを持つのはすごいことだけど、その反面、かなり厳しいこともあるよ。",
+    "en": "Having a keen, switched-on mentor is amazing, but the flip side of it is that they can be quite demanding.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "何時間もスープを煮込むと深みのある味になるけど、その反面、一日中かかってしまうよ。",
+    "en": "Simmering the broth for hours builds incredible depth of flavor, but the flip side of it is that it takes all day.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "広い人脈を持つのは素晴らしいことだけど、その反面、全ての関係を維持するのが難しいよ。",
+    "en": "Having an expansive social network feels great, but the flip side of it is that it's hard to maintain all the relationships.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "積極的に取り組む姿勢は称賛に値するけど、その反面、すぐに燃え尽きてしまうかもしれないよ。",
+    "en": "Being a vigorous go-getter is admirable, but the flip side of it is that you might burn out quickly.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "友達と思いっきり楽しむのはすごく楽しいけど、その反面、翌朝のだるさがあるよ。",
+    "en": "Painting the town red with friends is so much fun, but the flip side of it is the sluggish feeling the next morning.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "メンターの観点から、厳しいフィードバックをする前に信頼を育てることが重要だよ。",
+    "en": "From the perspective of a mentor, it's important to cultivate trust before giving tough feedback.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "都市の住民の観点から、街の騒音とペースは圧倒的に感じることがあるよ。",
+    "en": "From the perspective of an urban resident, the noise and pace of city life can feel overwhelming.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "シェフの観点から、鋭いナイフと質の良いまな板への投資は欠かせないよ。",
+    "en": "From the perspective of a chef, investing in a sharp knife and quality cutting board is non-negotiable.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "温かい心のリーダーの観点から、チームの各メンバーの幸福は常に最優先事項だよ。",
+    "en": "From the perspective of a warm-hearted leader, the wellbeing of each individual on the team always comes first.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "事業の観点から、適切なビジネスパートナーを得ることは資金と同じくらい重要だよ。",
+    "en": "From the perspective of the enterprise, acquiring the right companion in business is just as important as capital.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "語学学習者の観点から、優れた家庭教師に出会うことは本当にゲームチェンジャーになるよ。",
+    "en": "From the perspective of a language learner, coming across a great tutor is a real game-changer.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "教育者の観点から、鋭くて熱心な生徒を教えるのが最もやりがいのあることだよ。",
+    "en": "From the perspective of an educator, a keen and eager student is the most rewarding kind to teach.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "シェフの観点から、いつ煮込んでいつ沸騰させるかを知ることが料理の鍵だよ。",
+    "en": "From the perspective of a chef, knowing when to simmer and when to boil is the key to great cooking.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "規律と柔軟性は表裏一体だよ、本当の成長を育てるには両方が必要だよ。",
+    "en": "Discipline and flexibility are two sides of the same coin — you need both to cultivate real growth.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "売り上げを伸ばすことと費用を管理することは、健全な事業において表裏一体だよ。",
+    "en": "Boosting sales and controlling costs are two sides of the same coin for a healthy enterprise.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "活気があることと休息を取ることは表裏一体だよ、片方なしにもう片方は得られないよ。",
+    "en": "Being vibrant and being rested are two sides of the same coin — you can't have one without the other.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "鋭い頭脳と温かい心を持つことは、優れたリーダーにおいて表裏一体だよ。",
+    "en": "Having a sharp mind and a warm-hearted nature are two sides of the same coin in a great leader.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "都市の成長と都市の問題は表裏一体だよ、切り離すことはできないよ。",
+    "en": "Urban growth and urban problems are two sides of the same coin — you can't separate them.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "新しいことに挑戦することと失敗を受け入れることは、成功への道において表裏一体だよ。",
+    "en": "Attempting new things and accepting failure are two sides of the same coin on the path to success.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "親しい知り合いと真の仲間はほぼ表裏一体だよ、境界線がぼやけることがあるよ。",
+    "en": "A fond acquaintance and a true companion are almost two sides of the same coin — sometimes the line is blurry.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が言ったように、毎日ノートを見直す習慣を育てないといけないよ。",
+    "en": "Like I said, you have to cultivate the habit of reviewing your notes every single day.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "あなたが言ったように、事業全体に活気ある再ブランディングが必要だよ。",
+    "en": "Like you said, the whole enterprise is going to need a vibrant rebranding effort.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が言ったように、本末転倒にならないようにしよう、まず製品を完成させるよ。",
+    "en": "Like I said, let's not put the cart before the horse — we finalize the product first.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "あなたが言ったように、少なくとも30分は煮込んで、プロセスを急がないでよ。",
+    "en": "Like you said, simmer it for at least 30 minutes — don't rush the process.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が言ったように、鋭いメンターを持つことでキャリアが文字通り変わるよ。",
+    "en": "Like I said, having a switched-on mentor can literally transform your career.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "あなたが言ったように、温かく誠実であることはどんな職業でも長く通用するよ。",
+    "en": "Like you said, being warm-hearted and genuine will take you far in any vocation.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が言ったように、私の意見ではこれが今まで考えた中で一番確かな計画だよ。",
+    "en": "Like I said, IMO this is the most solid plan we've come up with so far.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "あなたが言ったように、ソテーをマスターすれば料理レシピの世界が大きく広がるよ。",
+    "en": "Like you said, once you've mastered how to sauté, a whole world of recipes opens up.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "キッチンでは高温で炒めるよりも、むしろじっくり煮込んで待つタイプの料理人だよ。",
+    "en": "I'm more of a simmer-and-wait person in the kitchen rather than a stir-fry-at-high-heat kind of cook.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "ジムに行くタイプよりも、むしろ自然の中を歩くタイプの人間だよ。",
+    "en": "I'm more of a stroll-in-nature person than a hit-the-gym type.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "思いっきり外で楽しむタイプよりも、むしろ頭を使って家にいるタイプの人間だよ。",
+    "en": "I'm more of a brainy, stay-at-home type than an adventurous, paint-the-town-red person.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "むしろ率直なコミュニケーターで、要点を言ってサッと次に進むタイプの人間だよ。",
+    "en": "I'm more of a straightforward communicator — I just get to the point and move on.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "揚げ物より、むしろソテー派で、食べ物に軽さが出るのが好きだよ。",
+    "en": "I'm more of a sauté person than a deep-fryer — I love the lightness it gives to food.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "厳格な指導者よりも、むしろ温かい仲間タイプで、励ましてリードするタイプの人間だよ。",
+    "en": "I'm more of a warm-hearted companion than a stern instructor — I lead through encouragement.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "むしろのんびりした流れに乗るタイプで、些細なことでイライラすることはほとんどないよ。",
+    "en": "I'm more of a mellow, go-with-the-flow type — I seldom get bent out of shape over small things.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "大声で話すよりも、むしろ鋭い観察者タイプで、話す前に感じ取ることを好む人間だよ。",
+    "en": "I'm more of a keen observer than a loud talker — I prefer to perceive before I speak.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "ブレイズに関しては、全ては弱火、忍耐、そして良い部位の肉にかかっているよ。",
+    "en": "When it comes to braising, it's all about low heat, patience, and a good cut of meat.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "活気ある事業では、全ては初日から正しいチームカルチャーを育てることにかかっているよ。",
+    "en": "In a vibrant enterprise, it's all about cultivating the right team culture from day one.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "温かい心のメンターになることに関しては、全ては指導している個人を本当に気にかけることにかかっているよ。",
+    "en": "When it comes to being a warm-hearted mentor, it's all about genuinely caring about the individual you're guiding.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "料理においては、全てはいつソテーしてどこで煮込むかを知ることにかかっているよ。",
+    "en": "In cooking, it's all about knowing when to sauté and when to simmer.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "都市生活に関しては、全てはがむしゃらに働くことと休息のバランスを見つけることにかかっているよ。",
+    "en": "When it comes to urban life, it's all about finding the right balance between hustle and rest.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "おいしい炒め物に関しては、全ては高温、素早いテクニック、そして新鮮な食材にかかっているよ。",
+    "en": "For a great stir-fry, it's all about high heat, swift technique, and fresh ingredients.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "確かなネットワークを築くことに関しては、全ては時間をかけて生み出す愛着と信頼にかかっているよ。",
+    "en": "When building a solid network, it's all about the fondness and trust you create over time.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "結局のところ、全ては物事が難しくなった時に前進して適応できるかどうかにかかっているよ。",
+    "en": "At the end of the day, it's all about whether you can advance and adapt when things get tough.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "資金が限られていることを考慮すると、成果を生み出していない活動は止める必要があるよ。",
+    "en": "Given that we have limited capital, we need to cease any activities that aren't generating results.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼がこんなに鋭い人物であることを考慮すると、新しい役割で素早く前進できると確信しているよ。",
+    "en": "Given that he's such a switched-on individual, I'm sure he'll advance quickly in his new role.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "大都市がこんなに広大であることを考慮すると、公共交通機関を活用することは理にかなっているよ。",
+    "en": "Given that the metropolis is so expansive, it makes sense to utilize public transport.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼女が3時間肉をブレイズしてきたことを考慮すると、今頃は完璧に柔らかくなっているはずだよ。",
+    "en": "Given that she's been braising the beef for three hours, it should be perfectly tender by now.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "自分に主導権があることを考慮すると、今こそ大胆で決断力のある行動をする時だよ。",
+    "en": "Given that the ball's in your court, now is the time to make a bold and decisive move.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "彼女が温かい心のメンターであることを考慮すると、チームは彼女の指導があって幸運だよ。",
+    "en": "Given that she's a warm-hearted mentor, her team is fortunate to have her guidance.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "炒め物がたった10分でできることを考慮すると、平日の夜のメニューとしてなかなかいい選択肢だよ。",
+    "en": "Given that the stir-fry only takes 10 minutes, it's a pretty neat option for a weeknight meal.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "もう真夜中を過ぎたことを考慮すると、もう寝る時間だよ。",
+    "en": "Given that it's already past midnight, I'd say it's time to hit the sack.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、このプロジェクトスケジュールで無理しすぎている気がするよ。",
+    "en": "I might be wrong, but I think we're burning the candle at both ends with this project schedule.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、事業がまた本末転倒なことをしている気がするよ。",
+    "en": "I might be wrong, but I feel like the enterprise is putting the cart before the horse again.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、より深みのある味のためにソースをもう少し長く煮込んだ方がいいと思う。",
+    "en": "I might be wrong, but I think you should simmer the sauce a little longer for a richer flavor.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、会社は前進する前にもっと資金が必要だと思う。",
+    "en": "I might be wrong, but I think the firm is going to need more capital before it can advance.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、彼は与えられた新しい役割に気乗りしていない気がするよ。",
+    "en": "I might be wrong, but I have a feeling he's not stoked about the new role he was given.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、チーズを自分で削ると本当に大きな差が出ると思う。",
+    "en": "I might be wrong, but I think grating the cheese yourself really does make a huge difference.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、講義が広すぎて鮮明な中心的ナラティブが欠けていた気がする。",
+    "en": "I might be wrong, but I feel like the lecture was too broad and lacked a vivid central narrative.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "私が間違っているかもしれないけど、彼が提案したあの変わったアイデアは実際に機能するかもしれないと思う。",
+    "en": "I might be wrong, but I think that wacky idea he proposed might actually work.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "味の点では、牛肉を一晩ブレイズすると最高の結果が得られるよ。",
+    "en": "In terms of flavor, braising the beef overnight gives you the most incredible result.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "資金の点では、事業は今年拡大できる確かな立場にあるよ。",
+    "en": "In terms of capital, the enterprise is in a solid position to expand this year.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "活気ある雰囲気を作る点では、最初にアイスブレイクをすることは本当に効果的だよ。",
+    "en": "In terms of creating a vibrant atmosphere, breaking the ice at the start really does wonders.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "温かい心のメンターである点では、彼女は群を抜いているよ。",
+    "en": "In terms of being a warm-hearted mentor, she's in a league of her own.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "生産性の点では、抱き枕を使ってしっかり休むとずっとパフォーマンスが上がると思う。",
+    "en": "In terms of productivity, I'd say I perform way better when I utilize a body pillow and get proper rest.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "都市生活の点では、大都市は多くのものを提供するけど、高い代償が伴うよ。",
+    "en": "In terms of urban living, the metropolis has a lot to offer but comes with a hefty price tag.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "味の点では、よくマリネした鶏肉は常に普通のものよりおいしいよ。",
+    "en": "In terms of taste, a well-marinated chicken is always going to be more flavorful than a plain one.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "キャリアの点では、無謀なリスクを取るよりもコツコツ前進する方がいいと思う。",
+    "en": "In terms of your career, I'd say advancing steadily is better than taking reckless risks.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは料理を目指す全ての人がマスターしないといけないこと、にんにくを焦がさずに上手にソテーする方法だよ。",
+    "en": "This is something that every aspiring chef needs to master — how to properly sauté without burning the garlic.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これはしばらく考えていたこと、今の会社で前進するか新しい会社を求めるかだよ。",
+    "en": "This is something that I've been contemplating for a while — whether to advance in my current firm or seek a new one.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは鋭い人なら一目で分かること、使われている食材の質だよ。",
+    "en": "This is something that a switched-on individual would notice right away — the quality of the ingredients used.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは温かい心の仲間がすること、必要な時にすぐ駆けつけてくれることだよ。",
+    "en": "This is something that a warm-hearted companion would do — show up at the drop of a hat when you need them.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは全ての事業が認識しないといけないこと、チームの愛着を育てることの重要性だよ。",
+    "en": "This is something that every enterprise needs to acknowledge — the importance of cultivating team affection.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは最近見つけたこと、かつて全部焦がしていたシェフについての面白いエピソードだよ。",
+    "en": "This is something that I came across recently — an fascinating anecdote about a chef who used to burn everything.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは活気ある賑やかなコミュニティが与えてくれること、深い帰属意識と愛着だよ。",
+    "en": "This is something that a vibrant, lively community can give you — a deep sense of belonging and fondness.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "これは早い段階で理解しないといけないこと、手を抜くと長期的には必ずより多くのコストがかかるということだよ。",
+    "en": "This is something that you need to grasp early on — cutting corners always costs more in the long run.",
+    "deck": "ATSU表現_Part3"
+  },
+  {
+    "jp": "コーヒー好きなんだよね。",
+    "en": "I like coffee.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "朝の散歩が好きなんだ。",
+    "en": "I like taking walks in the morning.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ホラー映画好きだよ。",
+    "en": "I like horror movies.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "魚はあんまり好きじゃないんだよね。",
+    "en": "I don't like fish.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "早起きって苦手なんだよね。",
+    "en": "I don't like getting up early.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "混んでる電車は嫌いなんだ。",
+    "en": "I don't like crowded trains.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "辛い食べ物って好き？",
+    "en": "Do you like spicy food?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "キャンプって好き？",
+    "en": "Do you like camping?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "クラシック音楽って好き？",
+    "en": "Do you like classical music?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "新しいスニーカーが欲しいんだよね。",
+    "en": "I want new sneakers.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "大きい犬が飼いたいな。",
+    "en": "I want a big dog.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "休みが欲しいよ、マジで。",
+    "en": "I want a day off, seriously.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっと外出たいな。",
+    "en": "I want to go outside for a bit.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "将来は海外で働きたいんだよね。",
+    "en": "I want to work abroad someday.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もっと料理できるようになりたいな。",
+    "en": "I want to get better at cooking.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日はもう残業したくないよ。",
+    "en": "I don't want to work overtime today.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "誰にも会いたくない気分だよ。",
+    "en": "I don't want to see anyone right now.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その話、あんまり掘り返したくないな。",
+    "en": "I don't really want to bring that up again.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今夜、飲みに来ない？",
+    "en": "Do you want to go for a drink tonight?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "映画見に行かない？",
+    "en": "Do you want to go see a movie?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "一緒に料理してみない？",
+    "en": "Do you want to cook together?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今、音楽聴いてるんだ。",
+    "en": "I'm listening to music.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "友達と電話してるところなんだ。",
+    "en": "I'm on the phone with a friend.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "昼ごはん作ってるとこだよ。",
+    "en": "I'm making lunch.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "来週、京都に行く予定なんだ。",
+    "en": "I'm going to Kyoto next week.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "週末に部屋の掃除するつもりだよ。",
+    "en": "I'm going to clean my room this weekend.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今年こそジムに通うつもり。",
+    "en": "I'm going to start going to the gym this year.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "手伝うよ、任せて。",
+    "en": "I'll help you, don't worry.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あとで連絡するね。",
+    "en": "I'll text you later.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今度こそちゃんと時間守るよ。",
+    "en": "I'll actually be on time this time.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっと窓開けてもらえる？",
+    "en": "Can you open the window?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "これ持ってもらえる？",
+    "en": "Can you hold this for me?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "写真撮ってもらえる？",
+    "en": "Can you take a photo of me?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ここ座ってもいい？",
+    "en": "Can I sit here?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "先に帰っていい？",
+    "en": "Can I leave early?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっとスマホ借りていい？",
+    "en": "Can I borrow your phone?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "けっこう速く泳げるんだよ。",
+    "en": "I can swim pretty fast.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "スペイン語、少し話せるよ。",
+    "en": "I can speak a little Spanish.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "耳コピで弾けるんだ。",
+    "en": "I can play songs by ear.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "辛いもの全然食べられないんだよね。",
+    "en": "I can't eat spicy food at all.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "この重さは一人じゃ無理だよ。",
+    "en": "I can't lift this by myself.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "朝は全然起きられないんだよな。",
+    "en": "I can't wake up in the morning to save my life.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "休憩しようよ。",
+    "en": "Let's take a break.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "そこの新しいカフェ行ってみようよ。",
+    "en": "Let's check out that new café.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今週末、海行こうよ。",
+    "en": "Let's go to the beach this weekend.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "冷蔵庫にビールがあるよ。",
+    "en": "There's beer in the fridge.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "公園の前にコンビニがあるよ。",
+    "en": "There's a convenience store in front of the park.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "駅の近くにいいラーメン屋が何軒もあるよ。",
+    "en": "There are some great ramen places near the station.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "タブレット持ってるよ。",
+    "en": "I have a tablet.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "兄が二人いるんだ。",
+    "en": "I have two older brothers.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日の午後、ミーティングがあるんだ。",
+    "en": "I have a meeting this afternoon.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日中に返事しなきゃいけないんだ。",
+    "en": "I have to reply by the end of today.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "明日の朝、早く起きないといけないんだよね。",
+    "en": "I have to get up early tomorrow morning.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "来週までにレポート出さないといけないんだ。",
+    "en": "I have to turn in my report by next week.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "土曜日は仕事しなくていいよ。",
+    "en": "I don't have to work on Saturdays.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "制服じゃなくていいんだよね、この職場。",
+    "en": "I don't have to wear a uniform at this job.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "全部食べなくていいよ。",
+    "en": "I don't have to finish everything.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっと水が欲しいな。",
+    "en": "I need some water.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "新しい充電器が必要なんだよ。",
+    "en": "I need a new charger.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう少し時間が欲しいんだよね。",
+    "en": "I need a little more time.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちゃんと睡眠とらないとね。",
+    "en": "I need to get more sleep.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "パスワード変えないとなあ。",
+    "en": "I need to change my password.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "歯医者に行かないとだよ。",
+    "en": "I need to go to the dentist.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日は蒸し暑いね。",
+    "en": "It's really humid today.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "この映画、最高に面白かったよ。",
+    "en": "This movie was so much fun.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "そのカバン、めちゃくちゃ高いじゃん。",
+    "en": "That bag is super expensive.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "これが私のお気に入りのマグカップだよ。",
+    "en": "This is my favorite mug.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あれが私の通ってた学校だよ。",
+    "en": "That's the school I went to.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "これが今、話題のアプリだよ。",
+    "en": "This is the app everyone's talking about right now.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "「ホームシック」ってどういう意味？",
+    "en": "What does 'homesick' mean?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今の時間って何時？",
+    "en": "What time is it?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あの映画のタイトルって何だっけ？",
+    "en": "What's the name of that movie?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "トイレってどこですか？",
+    "en": "Where's the bathroom?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "一番近い駅ってどこ？",
+    "en": "Where's the nearest train station?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "充電器どこに置いたっけ？",
+    "en": "Where did I put my charger?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "次の試合っていつ？",
+    "en": "When's the next game?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "誕生日っていつだっけ？",
+    "en": "When's your birthday?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "夏休みってどのくらいあるの？",
+    "en": "When do you get summer vacation?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その山って何メートルあるの？",
+    "en": "How tall is that mountain?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ここから駅まってどのくらい遠い？",
+    "en": "How far is it to the station from here?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その映画、どのくらいの長さ？",
+    "en": "How long is the movie?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "なんでそんなに遅かったの？",
+    "en": "Why were you so late?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "なんでそんなに疲れてんの？",
+    "en": "Why are you so tired?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "なんでそれを選んだの？",
+    "en": "Why did you choose that?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あの背の高い人、誰？",
+    "en": "Who's that tall person?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "この荷物、誰のだろう？",
+    "en": "Whose bag is this?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "次の発表、誰がやるの？",
+    "en": "Who's doing the next presentation?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "バスと電車、どっちが早い？",
+    "en": "Which is faster, the bus or the train?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "この二つ、どっちが好き？",
+    "en": "Which one do you like better?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "どのサイズにする？",
+    "en": "Which size do you want?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あの子、いい人だと思うよ。",
+    "en": "I think she's a good person.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "明日は雨が降ると思うな。",
+    "en": "I think it's going to rain tomorrow.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "そのプランはうまくいくと思うよ。",
+    "en": "I think that plan will work.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "それは無理だとは思わないけどな。",
+    "en": "I don't think that's impossible.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "彼が正しいとは思えないんだよね。",
+    "en": "I don't think he's right.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "それがいいアイデアとは思えないな。",
+    "en": "I don't think that's a great idea.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その歌、知ってるよ！",
+    "en": "I know that song!",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "彼女のこと前から知ってるんだ。",
+    "en": "I know her from before.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "この辺のいい店は全部知ってるよ。",
+    "en": "I know all the good spots around here.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その人の名前、全然思い出せないんだよ。",
+    "en": "I don't know that person's name at all.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "何から始めたらいいかわからないんだよね。",
+    "en": "I don't know where to start.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "彼が何考えてるかわからないんだよな。",
+    "en": "I don't know what he's thinking.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "スーパーに行ってくるよ。",
+    "en": "I'm going to the supermarket.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "週末に図書館に行くつもりなんだ。",
+    "en": "I'm going to the library this weekend.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "明日病院に行かないといけないんだ。",
+    "en": "I'm going to the hospital tomorrow.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "転職を考えてるんだよね。",
+    "en": "I'm thinking of changing jobs.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "新しい趣味を始めようかなって思ってるんだ。",
+    "en": "I'm thinking of picking up a new hobby.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "引っ越しも考えてるんだよね。",
+    "en": "I'm thinking of moving.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "夏休みが待ち遠しいよ！",
+    "en": "I'm looking forward to summer vacation!",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "みんなに会えるのが楽しみなんだ。",
+    "en": "I'm looking forward to seeing everyone.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "そのコンサート、めちゃくちゃ楽しみにしてるんだ。",
+    "en": "I'm really looking forward to that concert.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もっと健康的に食べようとしてるんだよね。",
+    "en": "I'm trying to eat healthier.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もっと早く寝るようにしてるんだ。",
+    "en": "I'm trying to go to bed earlier.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "お金を節約しようとしてるところ。",
+    "en": "I'm trying to save money.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう出るところだよ。",
+    "en": "I'm about to leave.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょうど電話しようとしてたところ。",
+    "en": "I was just about to call you.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょうど食べようとしてたところなんだ。",
+    "en": "I'm about to eat.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "最近ずっとこのポッドキャスト聴いてるんだ。",
+    "en": "I've been listening to this podcast a lot lately.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ここ最近ずっと残業続きなんだよ。",
+    "en": "I've been working overtime a lot recently.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "最近ずっとその本読んでるんだよね。",
+    "en": "I've been reading that book for a while now.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "スカイダイビングって一度もやったことないんだよね。",
+    "en": "I've never gone skydiving.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "牡蠣って食べたことないんだよ。",
+    "en": "I've never eaten oysters.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あの監督の映画、一本も見たことないんだよな。",
+    "en": "I've never seen any of that director's movies.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もうチケット取ったよ。",
+    "en": "I've already bought the tickets.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう夕飯食べたんだよね。",
+    "en": "I've already had dinner.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その曲はもう聴いたことあるよ。",
+    "en": "I've already heard that song.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "海外に住んだことある？",
+    "en": "Have you ever lived abroad?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "スノーボードってやったことある？",
+    "en": "Have you ever tried snowboarding?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "徹夜したことってある？",
+    "en": "Have you ever pulled an all-nighter?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "昔はよくギター弾いてたんだよね。",
+    "en": "I used to play guitar a lot.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "子どものころ、毎日外で遊んでたんだよ。",
+    "en": "I used to play outside every day as a kid.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "昔はコーヒー飲めなかったんだよね。",
+    "en": "I used to not be able to drink coffee.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "早めに出発するつもりだったんだけどね。",
+    "en": "I was going to leave earlier, but I didn't.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "昨日電話しようと思ってたんだけどね。",
+    "en": "I was going to call you yesterday, but something came up.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ジムに行くつもりだったんだけどな。",
+    "en": "I was going to go to the gym, but I didn't make it.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もっとこまめに連絡すべきだったな。",
+    "en": "I should stay in touch more.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう少し準備しておくべきだったよ。",
+    "en": "I should prepare more next time.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もっと早く予約すべきだったな。",
+    "en": "I should have booked it earlier.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "夜遅くに食べすぎないほうがいいよ。",
+    "en": "I shouldn't eat so much late at night.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もうお酒飲まない方がいいかな。",
+    "en": "I probably shouldn't drink any more.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "そんなこと言わない方がよかったよ。",
+    "en": "I shouldn't have said that.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もうちょっと体動かした方がいいよ。",
+    "en": "You should get more exercise.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "そのカフェ、一回行ってみなよ。",
+    "en": "You should check out that café sometime.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "早めに予約しといた方がいいよ。",
+    "en": "You should book it in advance.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もっと水を飲むようにした方がいいかな。",
+    "en": "Maybe I should drink more water.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう一回確認した方がいいかな。",
+    "en": "Maybe I should double-check it.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "素直に謝った方がいいかもな。",
+    "en": "Maybe I should just apologize.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "週末、出かけるのもいいかもね。",
+    "en": "We could go out this weekend.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "別のルートで行くこともできるよ。",
+    "en": "We could try a different route.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう少し待てばいいんじゃないかな。",
+    "en": "We could wait a little longer.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっとドアを閉めてもらえますか？",
+    "en": "Would you mind closing the door?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう少しゆっくり話してもらえますか？",
+    "en": "Would you slow down a little?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう一回それを言ってもらえますか？",
+    "en": "Would you say that again?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "もう少し大きい声で話してもらえますか？",
+    "en": "Could you speak up a bit?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "駅まで道を教えてもらえますか？",
+    "en": "Could you tell me how to get to the station?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ここのWi-Fiのパスワード、教えてもらえますか？",
+    "en": "Could you give me the Wi-Fi password?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっと窓開けてもいいですか？",
+    "en": "Do you mind if I open the window?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "隣に座ってもいいですか？",
+    "en": "Do you mind if I sit next to you?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "音楽消してもいいですか？",
+    "en": "Do you mind if I turn off the music?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ランチ、ラーメンにしない？",
+    "en": "How about ramen for lunch?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "たまには外でご飯でもどう？",
+    "en": "How about eating out for a change?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "明日の朝、少し早めに来るのはどう？",
+    "en": "How about coming in a little earlier tomorrow morning?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "デザートはどうする？",
+    "en": "What about dessert?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "週末の予定は？",
+    "en": "What about the weekend?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "バックアッププランは考えてる？",
+    "en": "What about a backup plan?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "歩いて行かない？",
+    "en": "Why don't we walk?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "みんなで料理しない？",
+    "en": "Why don't we all cook together?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今夜、ゲームでもしない？",
+    "en": "Why don't we play some games tonight?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "たまには休んだら？",
+    "en": "Why don't you take a break?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "新しいのに買い替えたら？",
+    "en": "Why don't you get a new one?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "直接本人に聞いてみたら？",
+    "en": "Why don't you just ask them directly?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "外、雨が降りそうだよ。",
+    "en": "It looks like it's going to rain.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その店、混んでそうだね。",
+    "en": "It looks like that place is pretty busy.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "彼、機嫌悪そうだよね。",
+    "en": "It looks like he's in a bad mood.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "楽しそうだね！",
+    "en": "That sounds like fun!",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "それ、いいアイデアっぽいね。",
+    "en": "That sounds like a good idea.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "それって大変そうだね。",
+    "en": "That sounds really tough.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "ちょっと休憩したい気分だな。",
+    "en": "I feel like taking a break.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日は外食したい気分。",
+    "en": "I feel like eating out tonight.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "映画でも見たい気分だな。",
+    "en": "I feel like watching a movie.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "バスより歩いて行きたいな。",
+    "en": "I'd rather walk than take the bus.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "混んでる場所より静かなカフェがいいな。",
+    "en": "I'd rather go to a quiet café than somewhere crowded.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今夜は家でのんびりしたいな。",
+    "en": "I'd rather just stay home tonight.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "明日雪が降るかもね。",
+    "en": "It might snow tomorrow.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "少し遅れるかもしれないよ。",
+    "en": "I might be a little late.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今夜のパーティー、行けないかもしれない。",
+    "en": "I might not be able to make it to the party tonight.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "彼女が来るかどうかわからないんだよね。",
+    "en": "I'm not sure if she's coming.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "それが正しいかどうか確信が持てないんだよ。",
+    "en": "I'm not sure if that's right.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "まだ行くかどうか決めてないんだよね。",
+    "en": "I'm not sure if I'm going yet.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "天気次第だね。",
+    "en": "It depends on the weather.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "状況によって変わってくるよ。",
+    "en": "It depends on the situation.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "どのくらい時間があるかによるね。",
+    "en": "It depends on how much time we have.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日の3時に会議があるんだよ。",
+    "en": "I'm supposed to have a meeting at three today.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日は早く帰る予定なんだ。",
+    "en": "I'm supposed to leave early today.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "あとで彼女に連絡する約束してるんだよね。",
+    "en": "I'm supposed to text her later.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "料理がうまくないんだよね。",
+    "en": "I'm not good at cooking.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "人前で話すのが苦手なんだ。",
+    "en": "I'm not good at public speaking.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "時間の管理が下手なんだよな。",
+    "en": "I'm not good at managing my time.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "最近ちょっと疲れが出てきたかな。",
+    "en": "I'm getting tired lately.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "だんだんお腹が空いてきた。",
+    "en": "I'm getting hungry.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "おかげで少しよくなってきたよ。",
+    "en": "I'm getting better, thanks.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "駅まで歩いて10分くらいかかるよ。",
+    "en": "It takes about ten minutes to walk to the station.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その映画、作るのに3年かかったんだって。",
+    "en": "It took three years to make that movie.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "パスタって、ゆでるのに8分くらいかかるよ。",
+    "en": "It takes about eight minutes to boil the pasta.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "今日も仕事だったんだよね？",
+    "en": "You had work today, right?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "昨日の夜、そこにいたよね？",
+    "en": "You were there last night, right?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "その話、前にも聞いたよね？",
+    "en": "We've heard this story before, right?",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "だからあんなに眠そうだったんだね。",
+    "en": "That's why you looked so tired.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "だから遅れたんだね。",
+    "en": "That's why you were late.",
+    "deck": "超基礎_入門"
+  },
+  {
+    "jp": "だからみんなそこに集まってたんだね。",
+    "en": "That's why everyone was gathering there.",
+    "deck": "超基礎_入門"
+  }
+]
