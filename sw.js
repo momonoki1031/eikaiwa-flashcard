@@ -1,5 +1,5 @@
 // Simple offline-first service worker
-const CACHE = 'flashcards-v6';
+const CACHE = 'flashcards-v7';
 const ASSETS = ['./', './index.html', './cards.json', './manifest.json', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
